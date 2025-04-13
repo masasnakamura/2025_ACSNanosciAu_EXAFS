@@ -1,11 +1,11 @@
 # 2025_ACSNanosciAu_EXAFS
 ## Related paper
 - Journal : ACS Nanoscience Au
-- DOI :
+- DOI : [10.1021/acsnanoscienceau.5c00013](https://doi.org/10.1021/acsnanoscienceau.5c00013)
 - Title : Unravelling Element-Selective Local Structures in Multi-Element Alloy Nanoparticles with EXAFS
 
 ## Overview
-This repository contains python scripts developed for EXAFS fitting analysis of multi-element alloy (high-entropy alloy / compositionally complex alloy) nanoparticles.
+This repository contains python scripts developed for EXAFS curve fitting analysis of multi-element alloy (high-entropy alloy / compositionally complex alloy) nanoparticles and their application to foour samples.
 Simultaneous fitting of multiple data at different absorption edges and temperatures is performed while imposing constraints based on physically reasonable and interpretable assumptions.
 The details of the procedure is discussed in the article above.
 The code requires xraylarch version 0.9.65.

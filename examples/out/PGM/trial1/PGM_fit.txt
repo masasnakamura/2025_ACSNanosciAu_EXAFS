@@ -1,0 +1,2793 @@
+start: 2025-01-24 00:23:44.133198
+end: 2025-01-24 00:44:27.997758
+delta: 0:20:43.864560
+
+
+=================== FEFFIT RESULTS ====================
+[[Statistics]]
+   nvarys, npts       =  90, 6902
+   n_independent      =  320.072
+   chi_square         =  7575.81890
+   reduced chi_square =  32.9280397
+   r-factor           =  0.00528818
+   Akaike info crit   =  1192.76239
+   Bayesian info crit =  1531.93152
+ 
+[[Datasets (35)]]
+ dataset 1:
+   fit space          = 'q'
+   r-range            = 1.800, 3.000
+   k-range            = 4.000, 15.000
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/RuK-Ru/feff0001.dat', './feffinp/RuK-Rh/feff0001.dat', './feffinp/RuK-Pd/feff0001.dat', './feffinp/RuK-Ir/feff0001.dat', './feffinp/RuK-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=5.0602e-04, std=0.00132116)
+   epsilon_r          = 0.15768900
+   n_independent      = 9.403
+ dataset 2:
+   fit space          = 'q'
+   r-range            = 1.800, 3.000
+   k-range            = 4.000, 15.000
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/RuK-Ru/feff0001.dat', './feffinp/RuK-Rh/feff0001.dat', './feffinp/RuK-Pd/feff0001.dat', './feffinp/RuK-Ir/feff0001.dat', './feffinp/RuK-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=6.5109e-04, std=0.00163895)
+   epsilon_r          = 0.20289509
+   n_independent      = 9.403
+ dataset 3:
+   fit space          = 'q'
+   r-range            = 1.800, 3.000
+   k-range            = 4.000, 15.000
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/RuK-Ru/feff0001.dat', './feffinp/RuK-Rh/feff0001.dat', './feffinp/RuK-Pd/feff0001.dat', './feffinp/RuK-Ir/feff0001.dat', './feffinp/RuK-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=5.4066e-04, std=0.00142407)
+   epsilon_r          = 0.16848187
+   n_independent      = 9.403
+ dataset 4:
+   fit space          = 'q'
+   r-range            = 1.800, 3.000
+   k-range            = 4.000, 15.000
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/RuK-Ru/feff0001.dat', './feffinp/RuK-Rh/feff0001.dat', './feffinp/RuK-Pd/feff0001.dat', './feffinp/RuK-Ir/feff0001.dat', './feffinp/RuK-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.00141699, std=0.00421807)
+   epsilon_r          = 0.44156564
+   n_independent      = 9.403
+ dataset 5:
+   fit space          = 'q'
+   r-range            = 1.800, 3.000
+   k-range            = 4.000, 15.000
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/RuK-Ru/feff0001.dat', './feffinp/RuK-Rh/feff0001.dat', './feffinp/RuK-Pd/feff0001.dat', './feffinp/RuK-Ir/feff0001.dat', './feffinp/RuK-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=6.0436e-04, std=0.00165890)
+   epsilon_r          = 0.18833370
+   n_independent      = 9.403
+ dataset 6:
+   fit space          = 'q'
+   r-range            = 1.800, 3.000
+   k-range            = 4.000, 15.000
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/RuK-Ru/feff0001.dat', './feffinp/RuK-Rh/feff0001.dat', './feffinp/RuK-Pd/feff0001.dat', './feffinp/RuK-Ir/feff0001.dat', './feffinp/RuK-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=8.8168e-04, std=9.1898e-04)
+   epsilon_r          = 0.27475137
+   n_independent      = 9.403
+ dataset 7:
+   fit space          = 'q'
+   r-range            = 1.800, 3.000
+   k-range            = 4.000, 15.000
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/RuK-Ru/feff0001.dat', './feffinp/RuK-Rh/feff0001.dat', './feffinp/RuK-Pd/feff0001.dat', './feffinp/RuK-Ir/feff0001.dat', './feffinp/RuK-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=7.7823e-04, std=2.6198e-04)
+   epsilon_r          = 0.24251592
+   n_independent      = 9.403
+ dataset 8:
+   fit space          = 'q'
+   r-range            = 1.800, 3.100
+   k-range            = 4.000, 15.000
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/RhK-Ru/feff0001.dat', './feffinp/RhK-Rh/feff0001.dat', './feffinp/RhK-Pd/feff0001.dat', './feffinp/RhK-Ir/feff0001.dat', './feffinp/RhK-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=5.9361e-04, std=0.00142669)
+   epsilon_r          = 0.18498164
+   n_independent      = 10.104
+ dataset 9:
+   fit space          = 'q'
+   r-range            = 1.800, 3.100
+   k-range            = 4.000, 15.000
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/RhK-Ru/feff0001.dat', './feffinp/RhK-Rh/feff0001.dat', './feffinp/RhK-Pd/feff0001.dat', './feffinp/RhK-Ir/feff0001.dat', './feffinp/RhK-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=9.5458e-04, std=0.00255658)
+   epsilon_r          = 0.29746829
+   n_independent      = 10.104
+ dataset 10:
+   fit space          = 'q'
+   r-range            = 1.800, 3.100
+   k-range            = 4.000, 15.000
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/RhK-Ru/feff0001.dat', './feffinp/RhK-Rh/feff0001.dat', './feffinp/RhK-Pd/feff0001.dat', './feffinp/RhK-Ir/feff0001.dat', './feffinp/RhK-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=6.8900e-04, std=0.00172275)
+   epsilon_r          = 0.21470686
+   n_independent      = 10.104
+ dataset 11:
+   fit space          = 'q'
+   r-range            = 1.800, 3.100
+   k-range            = 4.000, 15.000
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/RhK-Ru/feff0001.dat', './feffinp/RhK-Rh/feff0001.dat', './feffinp/RhK-Pd/feff0001.dat', './feffinp/RhK-Ir/feff0001.dat', './feffinp/RhK-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=6.0778e-04, std=0.00138076)
+   epsilon_r          = 0.18939795
+   n_independent      = 10.104
+ dataset 12:
+   fit space          = 'q'
+   r-range            = 1.800, 3.100
+   k-range            = 4.000, 15.000
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/RhK-Ru/feff0001.dat', './feffinp/RhK-Rh/feff0001.dat', './feffinp/RhK-Pd/feff0001.dat', './feffinp/RhK-Ir/feff0001.dat', './feffinp/RhK-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=5.1761e-04, std=0.00111289)
+   epsilon_r          = 0.16129977
+   n_independent      = 10.104
+ dataset 13:
+   fit space          = 'q'
+   r-range            = 1.800, 3.100
+   k-range            = 4.000, 15.000
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/RhK-Ru/feff0001.dat', './feffinp/RhK-Rh/feff0001.dat', './feffinp/RhK-Pd/feff0001.dat', './feffinp/RhK-Ir/feff0001.dat', './feffinp/RhK-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.00111420, std=7.1669e-04)
+   epsilon_r          = 0.34721092
+   n_independent      = 10.104
+ dataset 14:
+   fit space          = 'q'
+   r-range            = 1.800, 3.100
+   k-range            = 4.000, 15.000
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/RhK-Ru/feff0001.dat', './feffinp/RhK-Rh/feff0001.dat', './feffinp/RhK-Pd/feff0001.dat', './feffinp/RhK-Ir/feff0001.dat', './feffinp/RhK-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.00173355, std=0.00180130)
+   epsilon_r          = 0.54021319
+   n_independent      = 10.104
+ dataset 15:
+   fit space          = 'q'
+   r-range            = 1.800, 3.100
+   k-range            = 4.000, 15.000
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/PdK-Ru/feff0001.dat', './feffinp/PdK-Rh/feff0001.dat', './feffinp/PdK-Pd/feff0001.dat', './feffinp/PdK-Ir/feff0001.dat', './feffinp/PdK-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=4.9558e-04, std=0.00106360)
+   epsilon_r          = 0.15443433
+   n_independent      = 10.104
+ dataset 16:
+   fit space          = 'q'
+   r-range            = 1.800, 3.100
+   k-range            = 4.000, 15.000
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/PdK-Ru/feff0001.dat', './feffinp/PdK-Rh/feff0001.dat', './feffinp/PdK-Pd/feff0001.dat', './feffinp/PdK-Ir/feff0001.dat', './feffinp/PdK-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=3.0179e-04, std=4.1128e-04)
+   epsilon_r          = 0.09404479
+   n_independent      = 10.104
+ dataset 17:
+   fit space          = 'q'
+   r-range            = 1.800, 3.100
+   k-range            = 4.000, 15.000
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/PdK-Ru/feff0001.dat', './feffinp/PdK-Rh/feff0001.dat', './feffinp/PdK-Pd/feff0001.dat', './feffinp/PdK-Ir/feff0001.dat', './feffinp/PdK-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=3.8896e-04, std=5.2625e-04)
+   epsilon_r          = 0.12120918
+   n_independent      = 10.104
+ dataset 18:
+   fit space          = 'q'
+   r-range            = 1.800, 3.100
+   k-range            = 4.000, 15.000
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/PdK-Ru/feff0001.dat', './feffinp/PdK-Rh/feff0001.dat', './feffinp/PdK-Pd/feff0001.dat', './feffinp/PdK-Ir/feff0001.dat', './feffinp/PdK-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=4.3697e-04, std=8.5168e-04)
+   epsilon_r          = 0.13617061
+   n_independent      = 10.104
+ dataset 19:
+   fit space          = 'q'
+   r-range            = 1.800, 3.100
+   k-range            = 4.000, 15.000
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/PdK-Ru/feff0001.dat', './feffinp/PdK-Rh/feff0001.dat', './feffinp/PdK-Pd/feff0001.dat', './feffinp/PdK-Ir/feff0001.dat', './feffinp/PdK-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=2.7559e-04, std=3.7084e-04)
+   epsilon_r          = 0.08587972
+   n_independent      = 10.104
+ dataset 20:
+   fit space          = 'q'
+   r-range            = 1.800, 3.100
+   k-range            = 4.000, 15.000
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/PdK-Ru/feff0001.dat', './feffinp/PdK-Rh/feff0001.dat', './feffinp/PdK-Pd/feff0001.dat', './feffinp/PdK-Ir/feff0001.dat', './feffinp/PdK-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.00144464, std=0.00103741)
+   epsilon_r          = 0.45018247
+   n_independent      = 10.104
+ dataset 21:
+   fit space          = 'q'
+   r-range            = 1.800, 3.100
+   k-range            = 4.000, 15.000
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/PdK-Ru/feff0001.dat', './feffinp/PdK-Rh/feff0001.dat', './feffinp/PdK-Pd/feff0001.dat', './feffinp/PdK-Ir/feff0001.dat', './feffinp/PdK-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.00113980, std=6.1770e-05)
+   epsilon_r          = 0.35518888
+   n_independent      = 10.104
+ dataset 22:
+   fit space          = 'q'
+   r-range            = 1.500, 3.400
+   k-range            = 3.000, 8.300
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/IrL3-Ru/feff0001.dat', './feffinp/IrL3-Rh/feff0001.dat', './feffinp/IrL3-Pd/feff0001.dat', './feffinp/IrL3-Ir/feff0001.dat', './feffinp/IrL3-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.00179073, std=0.00364358)
+   epsilon_r          = 0.07030071
+   n_independent      = 7.411
+ dataset 23:
+   fit space          = 'q'
+   r-range            = 1.500, 3.400
+   k-range            = 3.000, 8.300
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/IrL3-Ru/feff0001.dat', './feffinp/IrL3-Rh/feff0001.dat', './feffinp/IrL3-Pd/feff0001.dat', './feffinp/IrL3-Ir/feff0001.dat', './feffinp/IrL3-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.00177415, std=0.00358730)
+   epsilon_r          = 0.06964993
+   n_independent      = 7.411
+ dataset 24:
+   fit space          = 'q'
+   r-range            = 1.500, 3.400
+   k-range            = 3.000, 8.300
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/IrL3-Ru/feff0001.dat', './feffinp/IrL3-Rh/feff0001.dat', './feffinp/IrL3-Pd/feff0001.dat', './feffinp/IrL3-Ir/feff0001.dat', './feffinp/IrL3-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.00191559, std=0.00345947)
+   epsilon_r          = 0.07520249
+   n_independent      = 7.411
+ dataset 25:
+   fit space          = 'q'
+   r-range            = 1.500, 3.400
+   k-range            = 3.000, 8.300
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/IrL3-Ru/feff0001.dat', './feffinp/IrL3-Rh/feff0001.dat', './feffinp/IrL3-Pd/feff0001.dat', './feffinp/IrL3-Ir/feff0001.dat', './feffinp/IrL3-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.00192285, std=0.00360802)
+   epsilon_r          = 0.07548755
+   n_independent      = 7.411
+ dataset 26:
+   fit space          = 'q'
+   r-range            = 1.500, 3.400
+   k-range            = 3.000, 8.300
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/IrL3-Ru/feff0001.dat', './feffinp/IrL3-Rh/feff0001.dat', './feffinp/IrL3-Pd/feff0001.dat', './feffinp/IrL3-Ir/feff0001.dat', './feffinp/IrL3-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.00177242, std=0.00369405)
+   epsilon_r          = 0.06958168
+   n_independent      = 7.411
+ dataset 27:
+   fit space          = 'q'
+   r-range            = 1.500, 3.400
+   k-range            = 3.000, 8.300
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/IrL3-Ru/feff0001.dat', './feffinp/IrL3-Rh/feff0001.dat', './feffinp/IrL3-Pd/feff0001.dat', './feffinp/IrL3-Ir/feff0001.dat', './feffinp/IrL3-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.00202475, std=0.00376905)
+   epsilon_r          = 0.07948790
+   n_independent      = 7.411
+ dataset 28:
+   fit space          = 'q'
+   r-range            = 1.500, 3.400
+   k-range            = 3.000, 8.300
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/IrL3-Ru/feff0001.dat', './feffinp/IrL3-Rh/feff0001.dat', './feffinp/IrL3-Pd/feff0001.dat', './feffinp/IrL3-Ir/feff0001.dat', './feffinp/IrL3-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.00198404, std=0.00381750)
+   epsilon_r          = 0.07788979
+   n_independent      = 7.411
+ dataset 29:
+   fit space          = 'q'
+   r-range            = 2.100, 3.200
+   k-range            = 4.000, 15.000
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/PtL3-Ru/feff0001.dat', './feffinp/PtL3-Rh/feff0001.dat', './feffinp/PtL3-Pd/feff0001.dat', './feffinp/PtL3-Ir/feff0001.dat', './feffinp/PtL3-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=7.4999e-04, std=0.00104371)
+   epsilon_r          = 0.23371408
+   n_independent      = 8.703
+ dataset 30:
+   fit space          = 'q'
+   r-range            = 2.100, 3.200
+   k-range            = 4.000, 15.000
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/PtL3-Ru/feff0001.dat', './feffinp/PtL3-Rh/feff0001.dat', './feffinp/PtL3-Pd/feff0001.dat', './feffinp/PtL3-Ir/feff0001.dat', './feffinp/PtL3-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=9.9045e-04, std=0.00196262)
+   epsilon_r          = 0.30864666
+   n_independent      = 8.703
+ dataset 31:
+   fit space          = 'q'
+   r-range            = 2.100, 3.200
+   k-range            = 4.000, 15.000
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/PtL3-Ru/feff0001.dat', './feffinp/PtL3-Rh/feff0001.dat', './feffinp/PtL3-Pd/feff0001.dat', './feffinp/PtL3-Ir/feff0001.dat', './feffinp/PtL3-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=7.3555e-04, std=0.00156953)
+   epsilon_r          = 0.22921333
+   n_independent      = 8.703
+ dataset 32:
+   fit space          = 'q'
+   r-range            = 2.100, 3.200
+   k-range            = 4.000, 15.000
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/PtL3-Ru/feff0001.dat', './feffinp/PtL3-Rh/feff0001.dat', './feffinp/PtL3-Pd/feff0001.dat', './feffinp/PtL3-Ir/feff0001.dat', './feffinp/PtL3-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.00123816, std=0.00298765)
+   epsilon_r          = 0.38583784
+   n_independent      = 8.703
+ dataset 33:
+   fit space          = 'q'
+   r-range            = 2.100, 3.200
+   k-range            = 4.000, 15.000
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/PtL3-Ru/feff0001.dat', './feffinp/PtL3-Rh/feff0001.dat', './feffinp/PtL3-Pd/feff0001.dat', './feffinp/PtL3-Ir/feff0001.dat', './feffinp/PtL3-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=8.6434e-04, std=0.00164325)
+   epsilon_r          = 0.26934779
+   n_independent      = 8.703
+ dataset 34:
+   fit space          = 'q'
+   r-range            = 2.100, 3.200
+   k-range            = 4.000, 15.000
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/PtL3-Ru/feff0001.dat', './feffinp/PtL3-Rh/feff0001.dat', './feffinp/PtL3-Pd/feff0001.dat', './feffinp/PtL3-Ir/feff0001.dat', './feffinp/PtL3-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=7.8230e-04, std=0.00111525)
+   epsilon_r          = 0.24378428
+   n_independent      = 8.703
+ dataset 35:
+   fit space          = 'q'
+   r-range            = 2.100, 3.200
+   k-range            = 4.000, 15.000
+   k window, dk       = 'hanning', 1.000
+   paths used in fit  = ['./feffinp/PtL3-Ru/feff0001.dat', './feffinp/PtL3-Rh/feff0001.dat', './feffinp/PtL3-Pd/feff0001.dat', './feffinp/PtL3-Ir/feff0001.dat', './feffinp/PtL3-Pt/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=7.7242e-04, std=0.00128811)
+   epsilon_r          = 0.24070239
+   n_independent      = 8.703
+ 
+[[Variables]]
+   amp_Ir         =  0.83100000 (fixed)
+   amp_Pd         =  0.89200000 (fixed)
+   amp_Pt         =  0.86100000 (fixed)
+   amp_Rh         =  0.92200000 (fixed)
+   amp_Ru         =  0.89200000 (fixed)
+   enot_Ir        =  8.44734966 +/-unknown   (init=  10.0000000)
+   enot_Pd        =  0.99616384 +/-unknown   (init=  0.00000000)
+   enot_Pt        =  9.08065713 +/-unknown   (init=  10.0000000)
+   enot_Rh        =  0.40194618 +/-unknown   (init=  0.00000000)
+   enot_Ru        = -2.99598967 +/-unknown   (init=  0.00000000)
+   n_IrIr         =  1.47857186 +/-unknown   (init=  0.40682890)
+   n_IrPd         =  0.07389936 +/-unknown  = 'n_PdIr'
+   n_IrPt         =  4.2300e-06 +/-unknown   (init=  0.35902600)
+   n_IrRh         =  6.7920e-10 +/-unknown  = 'n_RhIr'
+   n_IrRu         =  0.61169041 +/-unknown  = 'n_RuIr'
+   n_PdIr         =  0.07389936 +/-unknown   (init=  0.41651050)
+   n_PdPd         =  1.04368955 +/-unknown   (init=  0.42642250)
+   n_PdPt         =  0.31097641 +/-unknown   (init=  0.36757000)
+   n_PdRh         =  0.74437791 +/-unknown  = 'n_RhPd'
+   n_PdRu         =  3.6104e-08 +/-unknown  = 'n_RuPd'
+   n_PtIr         =  4.2300e-06 +/-unknown  = 'n_IrPt'
+   n_PtPd         =  0.31097641 +/-unknown  = 'n_PdPt'
+   n_PtPt         =  0.42715382 +/-unknown   (init=  0.31684000)
+   n_PtRh         =  0.48058417 +/-unknown  = 'n_RhPt'
+   n_PtRu         =  0.06393820 +/-unknown  = 'n_RuPt'
+   n_RhIr         =  6.7920e-10 +/-unknown   (init=  0.40884590)
+   n_RhPd         =  0.74437791 +/-unknown   (init=  0.41857550)
+   n_RhPt         =  0.48058417 +/-unknown   (init=  0.36080600)
+   n_RhRh         =  0.64405962 +/-unknown   (init=  0.41087290)
+   n_RhRu         =  0.40588547 +/-unknown  = 'n_RuRh'
+   n_RuIr         =  0.61169041 +/-unknown   (init=  0.42558700)
+   n_RuPd         =  3.6104e-08 +/-unknown   (init=  0.43571500)
+   n_RuPt         =  0.06393820 +/-unknown   (init=  0.37558000)
+   n_RuRh         =  0.40588547 +/-unknown   (init=  0.42769700)
+   n_RuRu         =  0.17303472 +/-unknown   (init=  0.44521000)
+   r_Ir_008K      =  1.34659534 +/-unknown   (init=  1.35800000)
+   r_Ir_050K      =  1.34547876 +/-unknown   (init=  1.35800000)
+   r_Ir_100C      =  1.34563024 +/-unknown   (init=  1.35800000)
+   r_Ir_100K      =  1.34439272 +/-unknown   (init=  1.35800000)
+   r_Ir_150K      =  1.34668340 +/-unknown   (init=  1.35800000)
+   r_Ir_200K      =  1.34585637 +/-unknown   (init=  1.35800000)
+   r_Ir_300K      =  1.34694936 +/-unknown   (init=  1.35800000)
+   r_Pd_008K      =  1.36620872 +/-unknown   (init=  1.37500000)
+   r_Pd_050K      =  1.36760778 +/-unknown   (init=  1.37500000)
+   r_Pd_100C      =  1.36320451 +/-unknown   (init=  1.37500000)
+   r_Pd_100K      =  1.36624526 +/-unknown   (init=  1.37500000)
+   r_Pd_150K      =  1.36620936 +/-unknown   (init=  1.37500000)
+   r_Pd_200K      =  1.36609410 +/-unknown   (init=  1.37500000)
+   r_Pd_300K      =  1.36546218 +/-unknown   (init=  1.37500000)
+   r_Pt_008K      =  1.37104887 +/-unknown   (init=  1.38600000)
+   r_Pt_050K      =  1.37145023 +/-unknown   (init=  1.38600000)
+   r_Pt_100C      =  1.36436073 +/-unknown   (init=  1.38600000)
+   r_Pt_100K      =  1.37360978 +/-unknown   (init=  1.38600000)
+   r_Pt_150K      =  1.37002432 +/-unknown   (init=  1.38600000)
+   r_Pt_200K      =  1.36597290 +/-unknown   (init=  1.38600000)
+   r_Pt_300K      =  1.36856395 +/-unknown   (init=  1.38600000)
+   r_Rh_008K      =  1.36436961 +/-unknown   (init=  1.34500000)
+   r_Rh_050K      =  1.36239367 +/-unknown   (init=  1.34500000)
+   r_Rh_100C      =  1.36331321 +/-unknown   (init=  1.34500000)
+   r_Rh_100K      =  1.36338418 +/-unknown   (init=  1.34500000)
+   r_Rh_150K      =  1.36573167 +/-unknown   (init=  1.34500000)
+   r_Rh_200K      =  1.36527046 +/-unknown   (init=  1.34500000)
+   r_Rh_300K      =  1.36350940 +/-unknown   (init=  1.34500000)
+   r_Ru_008K      =  1.33113860 +/-unknown   (init=  1.33900000)
+   r_Ru_050K      =  1.33223365 +/-unknown   (init=  1.33900000)
+   r_Ru_100C      =  1.31901099 +/-unknown   (init=  1.33900000)
+   r_Ru_100K      =  1.33087826 +/-unknown   (init=  1.33900000)
+   r_Ru_150K      =  1.32887635 +/-unknown   (init=  1.33900000)
+   r_Ru_200K      =  1.32851924 +/-unknown   (init=  1.33900000)
+   r_Ru_300K      =  1.33027543 +/-unknown   (init=  1.33900000)
+   ss_Ir_008K     =  0.00302005 +/-unknown   (init=  6.3091e-04)
+   ss_Ir_050K     =  0.00299035 +/-unknown   (init=  6.5445e-04)
+   ss_Ir_100C     =  0.00431354 +/-unknown   (init=  0.00240941)
+   ss_Ir_100K     =  0.00331496 +/-unknown   (init=  8.2841e-04)
+   ss_Ir_150K     =  0.00340202 +/-unknown   (init=  0.00108258)
+   ss_Ir_200K     =  0.00343763 +/-unknown   (init=  0.00136526)
+   ss_Ir_300K     =  0.00409410 +/-unknown   (init=  0.00196232)
+   ss_Pd_008K     =  0.00120287 +/-unknown   (init=  0.00113956)
+   ss_Pd_050K     =  0.00134470 +/-unknown   (init=  0.00118208)
+   ss_Pd_100C     =  0.00418746 +/-unknown   (init=  0.00435191)
+   ss_Pd_100K     =  0.00146141 +/-unknown   (init=  0.00149628)
+   ss_Pd_150K     =  0.00183828 +/-unknown   (init=  0.00195537)
+   ss_Pd_200K     =  0.00219711 +/-unknown   (init=  0.00246595)
+   ss_Pd_300K     =  0.00285709 +/-unknown   (init=  0.00354437)
+   ss_Pt_008K     =  7.5345e-04 +/-unknown   (init=  6.2164e-04)
+   ss_Pt_050K     =  9.7510e-04 +/-unknown   (init=  6.4484e-04)
+   ss_Pt_100C     =  0.00243185 +/-unknown   (init=  0.00237400)
+   ss_Pt_100K     =  0.00100155 +/-unknown   (init=  8.1623e-04)
+   ss_Pt_150K     =  8.6886e-04 +/-unknown   (init=  0.00106667)
+   ss_Pt_200K     =  0.00122791 +/-unknown   (init=  0.00134520)
+   ss_Pt_300K     =  0.00205387 +/-unknown   (init=  0.00193348)
+   ss_Rh_008K     =  0.00294929 +/-unknown   (init=  0.00117847)
+   ss_Rh_050K     =  0.00305647 +/-unknown   (init=  0.00122245)
+   ss_Rh_100C     =  0.00508850 +/-unknown   (init=  0.00450051)
+   ss_Rh_100K     =  0.00314345 +/-unknown   (init=  0.00154738)
+   ss_Rh_150K     =  0.00318907 +/-unknown   (init=  0.00202215)
+   ss_Rh_200K     =  0.00354288 +/-unknown   (init=  0.00255016)
+   ss_Rh_300K     =  0.00446365 +/-unknown   (init=  0.00366540)
+   ss_Ru_008K     =  1.7445e-04 +/-unknown   (init=  0.00119988)
+   ss_Ru_050K     =  2.0352e-04 +/-unknown   (init=  0.00124465)
+   ss_Ru_100C     =  0.00184048 +/-unknown   (init=  0.00458227)
+   ss_Ru_100K     =  4.6414e-04 +/-unknown   (init=  0.00157548)
+   ss_Ru_150K     =  3.5103e-04 +/-unknown   (init=  0.00205888)
+   ss_Ru_200K     =  7.9686e-04 +/-unknown   (init=  0.00259648)
+   ss_Ru_300K     =  0.00122595 +/-unknown   (init=  0.00373198)
+   x_Ir           =  0.20170000 (fixed)
+   x_Pd           =  0.20650000 (fixed)
+   x_Pt           =  0.17800000 (fixed)
+   x_Rh           =  0.20270000 (fixed)
+   x_Ru           =  0.21100000 (fixed)
+ 
+[[Correlations]]    (unreported correlations are <  0.100)
+ 
+[[Paths]]
+ dataset 1:
+ = Path 'pm7ntiep5t' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Ru/feff0001.dat, from feff run 'RuK-Ru'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.8936,  1.8936  2
+     reff   =  2.67800000
+     degen  =  1.00000000
+     n*s02  =  0.73150222  := 'amp_Ru*n_RuRu/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.66227719  := 'reff + r_Ru_008K+r_Ru_008K-reff'
+     deltar = -0.01572281  := 'r_Ru_008K+r_Ru_008K-reff'
+     sigma2 =  3.4890e-04  := 'ss_Ru_008K+ss_Ru_008K'
+
+ = Path 'poau2um3on' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Rh/feff0001.dat, from feff run 'RuK-Rh'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       0.0000,  1.8979,  1.8979  2
+     reff   =  2.68400000
+     degen  =  1.00000000
+     n*s02  =  1.71587603  := 'amp_Ru*n_RuRh/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.69550820  := 'reff + r_Ru_008K+r_Rh_008K-reff'
+     deltar =  0.01150820  := 'r_Ru_008K+r_Rh_008K-reff'
+     sigma2 =  0.00312374  := 'ss_Ru_008K+ss_Rh_008K'
+
+ = Path 'p75f5raad7' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Pd/feff0001.dat, from feff run 'RuK-Pd'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9191,  1.9191  2
+     reff   =  2.71400000
+     degen  =  1.00000000
+     n*s02  =  1.5263e-07  := 'amp_Ru*n_RuPd/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.69734732  := 'reff + r_Ru_008K+r_Pd_008K-reff'
+     deltar = -0.01665268  := 'r_Ru_008K+r_Pd_008K-reff'
+     sigma2 =  0.00137732  := 'ss_Ru_008K+ss_Pd_008K'
+
+ = Path 'pwkerl4aou' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Ir/feff0001.dat, from feff run 'RuK-Ir'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       0.0000,  1.9071,  1.9071  2
+     reff   =  2.69700000
+     degen  =  1.00000000
+     n*s02  =  2.58591396  := 'amp_Ru*n_RuIr/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.67773394  := 'reff + r_Ru_008K+r_Ir_008K-reff'
+     deltar = -0.01926606  := 'r_Ru_008K+r_Ir_008K-reff'
+     sigma2 =  0.00319450  := 'ss_Ru_008K+ss_Ir_008K'
+
+ = Path 'pec7jigmjh' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Pt/feff0001.dat, from feff run 'RuK-Pt'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9269,  1.9269  2
+     reff   =  2.72500000
+     degen  =  1.00000000
+     n*s02  =  0.27029800  := 'amp_Ru*n_RuPt/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.70218746  := 'reff + r_Ru_008K+r_Pt_008K-reff'
+     deltar = -0.02281254  := 'r_Ru_008K+r_Pt_008K-reff'
+     sigma2 =  9.2790e-04  := 'ss_Ru_008K+ss_Pt_008K'
+
+ dataset 2:
+ = Path 'pm7ntiep5t' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Ru/feff0001.dat, from feff run 'RuK-Ru'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.8936,  1.8936  2
+     reff   =  2.67800000
+     degen  =  1.00000000
+     n*s02  =  0.73150222  := 'amp_Ru*n_RuRu/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.66446730  := 'reff + r_Ru_050K+r_Ru_050K-reff'
+     deltar = -0.01353270  := 'r_Ru_050K+r_Ru_050K-reff'
+     sigma2 =  4.0705e-04  := 'ss_Ru_050K+ss_Ru_050K'
+
+ = Path 'poau2um3on' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Rh/feff0001.dat, from feff run 'RuK-Rh'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       0.0000,  1.8979,  1.8979  2
+     reff   =  2.68400000
+     degen  =  1.00000000
+     n*s02  =  1.71587603  := 'amp_Ru*n_RuRh/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.69462732  := 'reff + r_Ru_050K+r_Rh_050K-reff'
+     deltar =  0.01062732  := 'r_Ru_050K+r_Rh_050K-reff'
+     sigma2 =  0.00326000  := 'ss_Ru_050K+ss_Rh_050K'
+
+ = Path 'p75f5raad7' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Pd/feff0001.dat, from feff run 'RuK-Pd'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9191,  1.9191  2
+     reff   =  2.71400000
+     degen  =  1.00000000
+     n*s02  =  1.5263e-07  := 'amp_Ru*n_RuPd/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.69984143  := 'reff + r_Ru_050K+r_Pd_050K-reff'
+     deltar = -0.01415857  := 'r_Ru_050K+r_Pd_050K-reff'
+     sigma2 =  0.00154822  := 'ss_Ru_050K+ss_Pd_050K'
+
+ = Path 'pwkerl4aou' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Ir/feff0001.dat, from feff run 'RuK-Ir'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       0.0000,  1.9071,  1.9071  2
+     reff   =  2.69700000
+     degen  =  1.00000000
+     n*s02  =  2.58591396  := 'amp_Ru*n_RuIr/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.67771241  := 'reff + r_Ru_050K+r_Ir_050K-reff'
+     deltar = -0.01928759  := 'r_Ru_050K+r_Ir_050K-reff'
+     sigma2 =  0.00319388  := 'ss_Ru_050K+ss_Ir_050K'
+
+ = Path 'pec7jigmjh' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Pt/feff0001.dat, from feff run 'RuK-Pt'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9269,  1.9269  2
+     reff   =  2.72500000
+     degen  =  1.00000000
+     n*s02  =  0.27029800  := 'amp_Ru*n_RuPt/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.70368388  := 'reff + r_Ru_050K+r_Pt_050K-reff'
+     deltar = -0.02131612  := 'r_Ru_050K+r_Pt_050K-reff'
+     sigma2 =  0.00117862  := 'ss_Ru_050K+ss_Pt_050K'
+
+ dataset 3:
+ = Path 'pm7ntiep5t' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Ru/feff0001.dat, from feff run 'RuK-Ru'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.8936,  1.8936  2
+     reff   =  2.67800000
+     degen  =  1.00000000
+     n*s02  =  0.73150222  := 'amp_Ru*n_RuRu/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.66175652  := 'reff + r_Ru_100K+r_Ru_100K-reff'
+     deltar = -0.01624348  := 'r_Ru_100K+r_Ru_100K-reff'
+     sigma2 =  9.2829e-04  := 'ss_Ru_100K+ss_Ru_100K'
+
+ = Path 'poau2um3on' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Rh/feff0001.dat, from feff run 'RuK-Rh'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       0.0000,  1.8979,  1.8979  2
+     reff   =  2.68400000
+     degen  =  1.00000000
+     n*s02  =  1.71587603  := 'amp_Ru*n_RuRh/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.69426244  := 'reff + r_Ru_100K+r_Rh_100K-reff'
+     deltar =  0.01026244  := 'r_Ru_100K+r_Rh_100K-reff'
+     sigma2 =  0.00360759  := 'ss_Ru_100K+ss_Rh_100K'
+
+ = Path 'p75f5raad7' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Pd/feff0001.dat, from feff run 'RuK-Pd'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9191,  1.9191  2
+     reff   =  2.71400000
+     degen  =  1.00000000
+     n*s02  =  1.5263e-07  := 'amp_Ru*n_RuPd/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.69712352  := 'reff + r_Ru_100K+r_Pd_100K-reff'
+     deltar = -0.01687648  := 'r_Ru_100K+r_Pd_100K-reff'
+     sigma2 =  0.00192556  := 'ss_Ru_100K+ss_Pd_100K'
+
+ = Path 'pwkerl4aou' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Ir/feff0001.dat, from feff run 'RuK-Ir'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       0.0000,  1.9071,  1.9071  2
+     reff   =  2.69700000
+     degen  =  1.00000000
+     n*s02  =  2.58591396  := 'amp_Ru*n_RuIr/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.67527098  := 'reff + r_Ru_100K+r_Ir_100K-reff'
+     deltar = -0.02172902  := 'r_Ru_100K+r_Ir_100K-reff'
+     sigma2 =  0.00377910  := 'ss_Ru_100K+ss_Ir_100K'
+
+ = Path 'pec7jigmjh' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Pt/feff0001.dat, from feff run 'RuK-Pt'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9269,  1.9269  2
+     reff   =  2.72500000
+     degen  =  1.00000000
+     n*s02  =  0.27029800  := 'amp_Ru*n_RuPt/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.70448804  := 'reff + r_Ru_100K+r_Pt_100K-reff'
+     deltar = -0.02051196  := 'r_Ru_100K+r_Pt_100K-reff'
+     sigma2 =  0.00146570  := 'ss_Ru_100K+ss_Pt_100K'
+
+ dataset 4:
+ = Path 'pm7ntiep5t' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Ru/feff0001.dat, from feff run 'RuK-Ru'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.8936,  1.8936  2
+     reff   =  2.67800000
+     degen  =  1.00000000
+     n*s02  =  0.73150222  := 'amp_Ru*n_RuRu/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.65775270  := 'reff + r_Ru_150K+r_Ru_150K-reff'
+     deltar = -0.02024730  := 'r_Ru_150K+r_Ru_150K-reff'
+     sigma2 =  7.0205e-04  := 'ss_Ru_150K+ss_Ru_150K'
+
+ = Path 'poau2um3on' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Rh/feff0001.dat, from feff run 'RuK-Rh'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       0.0000,  1.8979,  1.8979  2
+     reff   =  2.68400000
+     degen  =  1.00000000
+     n*s02  =  1.71587603  := 'amp_Ru*n_RuRh/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.69460802  := 'reff + r_Ru_150K+r_Rh_150K-reff'
+     deltar =  0.01060802  := 'r_Ru_150K+r_Rh_150K-reff'
+     sigma2 =  0.00354010  := 'ss_Ru_150K+ss_Rh_150K'
+
+ = Path 'p75f5raad7' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Pd/feff0001.dat, from feff run 'RuK-Pd'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9191,  1.9191  2
+     reff   =  2.71400000
+     degen  =  1.00000000
+     n*s02  =  1.5263e-07  := 'amp_Ru*n_RuPd/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.69508571  := 'reff + r_Ru_150K+r_Pd_150K-reff'
+     deltar = -0.01891429  := 'r_Ru_150K+r_Pd_150K-reff'
+     sigma2 =  0.00218931  := 'ss_Ru_150K+ss_Pd_150K'
+
+ = Path 'pwkerl4aou' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Ir/feff0001.dat, from feff run 'RuK-Ir'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       0.0000,  1.9071,  1.9071  2
+     reff   =  2.69700000
+     degen  =  1.00000000
+     n*s02  =  2.58591396  := 'amp_Ru*n_RuIr/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.67555974  := 'reff + r_Ru_150K+r_Ir_150K-reff'
+     deltar = -0.02144026  := 'r_Ru_150K+r_Ir_150K-reff'
+     sigma2 =  0.00375305  := 'ss_Ru_150K+ss_Ir_150K'
+
+ = Path 'pec7jigmjh' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Pt/feff0001.dat, from feff run 'RuK-Pt'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9269,  1.9269  2
+     reff   =  2.72500000
+     degen  =  1.00000000
+     n*s02  =  0.27029800  := 'amp_Ru*n_RuPt/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.69890067  := 'reff + r_Ru_150K+r_Pt_150K-reff'
+     deltar = -0.02609933  := 'r_Ru_150K+r_Pt_150K-reff'
+     sigma2 =  0.00121989  := 'ss_Ru_150K+ss_Pt_150K'
+
+ dataset 5:
+ = Path 'pm7ntiep5t' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Ru/feff0001.dat, from feff run 'RuK-Ru'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.8936,  1.8936  2
+     reff   =  2.67800000
+     degen  =  1.00000000
+     n*s02  =  0.73150222  := 'amp_Ru*n_RuRu/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.65703848  := 'reff + r_Ru_200K+r_Ru_200K-reff'
+     deltar = -0.02096152  := 'r_Ru_200K+r_Ru_200K-reff'
+     sigma2 =  0.00159373  := 'ss_Ru_200K+ss_Ru_200K'
+
+ = Path 'poau2um3on' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Rh/feff0001.dat, from feff run 'RuK-Rh'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       0.0000,  1.8979,  1.8979  2
+     reff   =  2.68400000
+     degen  =  1.00000000
+     n*s02  =  1.71587603  := 'amp_Ru*n_RuRh/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.69378970  := 'reff + r_Ru_200K+r_Rh_200K-reff'
+     deltar =  0.00978970  := 'r_Ru_200K+r_Rh_200K-reff'
+     sigma2 =  0.00433975  := 'ss_Ru_200K+ss_Rh_200K'
+
+ = Path 'p75f5raad7' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Pd/feff0001.dat, from feff run 'RuK-Pd'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9191,  1.9191  2
+     reff   =  2.71400000
+     degen  =  1.00000000
+     n*s02  =  1.5263e-07  := 'amp_Ru*n_RuPd/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.69461334  := 'reff + r_Ru_200K+r_Pd_200K-reff'
+     deltar = -0.01938666  := 'r_Ru_200K+r_Pd_200K-reff'
+     sigma2 =  0.00299398  := 'ss_Ru_200K+ss_Pd_200K'
+
+ = Path 'pwkerl4aou' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Ir/feff0001.dat, from feff run 'RuK-Ir'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       0.0000,  1.9071,  1.9071  2
+     reff   =  2.69700000
+     degen  =  1.00000000
+     n*s02  =  2.58591396  := 'amp_Ru*n_RuIr/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.67437561  := 'reff + r_Ru_200K+r_Ir_200K-reff'
+     deltar = -0.02262439  := 'r_Ru_200K+r_Ir_200K-reff'
+     sigma2 =  0.00423449  := 'ss_Ru_200K+ss_Ir_200K'
+
+ = Path 'pec7jigmjh' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Pt/feff0001.dat, from feff run 'RuK-Pt'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9269,  1.9269  2
+     reff   =  2.72500000
+     degen  =  1.00000000
+     n*s02  =  0.27029800  := 'amp_Ru*n_RuPt/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.69449214  := 'reff + r_Ru_200K+r_Pt_200K-reff'
+     deltar = -0.03050786  := 'r_Ru_200K+r_Pt_200K-reff'
+     sigma2 =  0.00202478  := 'ss_Ru_200K+ss_Pt_200K'
+
+ dataset 6:
+ = Path 'pm7ntiep5t' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Ru/feff0001.dat, from feff run 'RuK-Ru'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.8936,  1.8936  2
+     reff   =  2.67800000
+     degen  =  1.00000000
+     n*s02  =  0.73150222  := 'amp_Ru*n_RuRu/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.66055087  := 'reff + r_Ru_300K+r_Ru_300K-reff'
+     deltar = -0.01744913  := 'r_Ru_300K+r_Ru_300K-reff'
+     sigma2 =  0.00245190  := 'ss_Ru_300K+ss_Ru_300K'
+
+ = Path 'poau2um3on' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Rh/feff0001.dat, from feff run 'RuK-Rh'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       0.0000,  1.8979,  1.8979  2
+     reff   =  2.68400000
+     degen  =  1.00000000
+     n*s02  =  1.71587603  := 'amp_Ru*n_RuRh/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.69378483  := 'reff + r_Ru_300K+r_Rh_300K-reff'
+     deltar =  0.00978483  := 'r_Ru_300K+r_Rh_300K-reff'
+     sigma2 =  0.00568961  := 'ss_Ru_300K+ss_Rh_300K'
+
+ = Path 'p75f5raad7' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Pd/feff0001.dat, from feff run 'RuK-Pd'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9191,  1.9191  2
+     reff   =  2.71400000
+     degen  =  1.00000000
+     n*s02  =  1.5263e-07  := 'amp_Ru*n_RuPd/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.69573762  := 'reff + r_Ru_300K+r_Pd_300K-reff'
+     deltar = -0.01826238  := 'r_Ru_300K+r_Pd_300K-reff'
+     sigma2 =  0.00408304  := 'ss_Ru_300K+ss_Pd_300K'
+
+ = Path 'pwkerl4aou' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Ir/feff0001.dat, from feff run 'RuK-Ir'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       0.0000,  1.9071,  1.9071  2
+     reff   =  2.69700000
+     degen  =  1.00000000
+     n*s02  =  2.58591396  := 'amp_Ru*n_RuIr/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.67722479  := 'reff + r_Ru_300K+r_Ir_300K-reff'
+     deltar = -0.01977521  := 'r_Ru_300K+r_Ir_300K-reff'
+     sigma2 =  0.00532005  := 'ss_Ru_300K+ss_Ir_300K'
+
+ = Path 'pec7jigmjh' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Pt/feff0001.dat, from feff run 'RuK-Pt'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9269,  1.9269  2
+     reff   =  2.72500000
+     degen  =  1.00000000
+     n*s02  =  0.27029800  := 'amp_Ru*n_RuPt/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.69883938  := 'reff + r_Ru_300K+r_Pt_300K-reff'
+     deltar = -0.02616062  := 'r_Ru_300K+r_Pt_300K-reff'
+     sigma2 =  0.00327982  := 'ss_Ru_300K+ss_Pt_300K'
+
+ dataset 7:
+ = Path 'pm7ntiep5t' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Ru/feff0001.dat, from feff run 'RuK-Ru'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.8936,  1.8936  2
+     reff   =  2.67800000
+     degen  =  1.00000000
+     n*s02  =  0.73150222  := 'amp_Ru*n_RuRu/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.63802197  := 'reff + r_Ru_100C+r_Ru_100C-reff'
+     deltar = -0.03997803  := 'r_Ru_100C+r_Ru_100C-reff'
+     sigma2 =  0.00368096  := 'ss_Ru_100C+ss_Ru_100C'
+
+ = Path 'poau2um3on' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Rh/feff0001.dat, from feff run 'RuK-Rh'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       0.0000,  1.8979,  1.8979  2
+     reff   =  2.68400000
+     degen  =  1.00000000
+     n*s02  =  1.71587603  := 'amp_Ru*n_RuRh/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.68232419  := 'reff + r_Ru_100C+r_Rh_100C-reff'
+     deltar = -0.00167581  := 'r_Ru_100C+r_Rh_100C-reff'
+     sigma2 =  0.00692898  := 'ss_Ru_100C+ss_Rh_100C'
+
+ = Path 'p75f5raad7' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Pd/feff0001.dat, from feff run 'RuK-Pd'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9191,  1.9191  2
+     reff   =  2.71400000
+     degen  =  1.00000000
+     n*s02  =  1.5263e-07  := 'amp_Ru*n_RuPd/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.68221549  := 'reff + r_Ru_100C+r_Pd_100C-reff'
+     deltar = -0.03178451  := 'r_Ru_100C+r_Pd_100C-reff'
+     sigma2 =  0.00602795  := 'ss_Ru_100C+ss_Pd_100C'
+
+ = Path 'pwkerl4aou' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Ir/feff0001.dat, from feff run 'RuK-Ir'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       0.0000,  1.9071,  1.9071  2
+     reff   =  2.69700000
+     degen  =  1.00000000
+     n*s02  =  2.58591396  := 'amp_Ru*n_RuIr/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.66464122  := 'reff + r_Ru_100C+r_Ir_100C-reff'
+     deltar = -0.03235878  := 'r_Ru_100C+r_Ir_100C-reff'
+     sigma2 =  0.00615403  := 'ss_Ru_100C+ss_Ir_100C'
+
+ = Path 'pec7jigmjh' = Ru K Edge
+    feffdat file = ./feffinp/RuK-Pt/feff0001.dat, from feff run 'RuK-Pt'
+    geometry  atom      x        y        z      ipot
+              Ru       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9269,  1.9269  2
+     reff   =  2.72500000
+     degen  =  1.00000000
+     n*s02  =  0.27029800  := 'amp_Ru*n_RuPt/x_Ru'
+     e0     = -2.99598967  := 'enot_Ru'
+     r      =  2.68337171  := 'reff + r_Ru_100C+r_Pt_100C-reff'
+     deltar = -0.04162829  := 'r_Ru_100C+r_Pt_100C-reff'
+     sigma2 =  0.00427233  := 'ss_Ru_100C+ss_Pt_100C'
+
+ dataset 8:
+ = Path 'pybrsargwy' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Ru/feff0001.dat, from feff run 'RhK-Ru'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.8979,  1.8979  2
+     reff   =  2.68400000
+     degen  =  1.00000000
+     n*s02  =  1.84620822  := 'amp_Rh*n_RhRu/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.69550820  := 'reff + r_Rh_008K+r_Ru_008K-reff'
+     deltar =  0.01150820  := 'r_Rh_008K+r_Ru_008K-reff'
+     sigma2 =  0.00312374  := 'ss_Rh_008K+ss_Ru_008K'
+
+ = Path 'pstyv5kbli' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Rh/feff0001.dat, from feff run 'RhK-Rh'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       1.9021,  0.0000, -1.9021  2
+     reff   =  2.69000000
+     degen  =  1.00000000
+     n*s02  =  2.92956571  := 'amp_Rh*n_RhRh/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.72873921  := 'reff + r_Rh_008K+r_Rh_008K-reff'
+     deltar =  0.03873921  := 'r_Rh_008K+r_Rh_008K-reff'
+     sigma2 =  0.00589858  := 'ss_Rh_008K+ss_Rh_008K'
+
+ = Path 'pezftinkwy' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Pd/feff0001.dat, from feff run 'RhK-Pd'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9233,  1.9233  2
+     reff   =  2.72000000
+     degen  =  1.00000000
+     n*s02  =  3.38587289  := 'amp_Rh*n_RhPd/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.73057832  := 'reff + r_Rh_008K+r_Pd_008K-reff'
+     deltar =  0.01057832  := 'r_Rh_008K+r_Pd_008K-reff'
+     sigma2 =  0.00415216  := 'ss_Rh_008K+ss_Pd_008K'
+
+ = Path 'pmdyf372mv' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Ir/feff0001.dat, from feff run 'RhK-Ir'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       1.9113,  0.0000, -1.9113  2
+     reff   =  2.70300000
+     degen  =  1.00000000
+     n*s02  =  3.0894e-09  := 'amp_Rh*n_RhIr/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.71096495  := 'reff + r_Rh_008K+r_Ir_008K-reff'
+     deltar =  0.00796495  := 'r_Rh_008K+r_Ir_008K-reff'
+     sigma2 =  0.00596934  := 'ss_Rh_008K+ss_Ir_008K'
+
+ = Path 'pq6rvqr664' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Pt/feff0001.dat, from feff run 'RhK-Pt'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9311,  1.9311  2
+     reff   =  2.73100000
+     degen  =  1.00000000
+     n*s02  =  2.18598228  := 'amp_Rh*n_RhPt/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.73541847  := 'reff + r_Rh_008K+r_Pt_008K-reff'
+     deltar =  0.00441847  := 'r_Rh_008K+r_Pt_008K-reff'
+     sigma2 =  0.00370274  := 'ss_Rh_008K+ss_Pt_008K'
+
+ dataset 9:
+ = Path 'pybrsargwy' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Ru/feff0001.dat, from feff run 'RhK-Ru'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.8979,  1.8979  2
+     reff   =  2.68400000
+     degen  =  1.00000000
+     n*s02  =  1.84620822  := 'amp_Rh*n_RhRu/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.69462732  := 'reff + r_Rh_050K+r_Ru_050K-reff'
+     deltar =  0.01062732  := 'r_Rh_050K+r_Ru_050K-reff'
+     sigma2 =  0.00326000  := 'ss_Rh_050K+ss_Ru_050K'
+
+ = Path 'pstyv5kbli' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Rh/feff0001.dat, from feff run 'RhK-Rh'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       1.9021,  0.0000, -1.9021  2
+     reff   =  2.69000000
+     degen  =  1.00000000
+     n*s02  =  2.92956571  := 'amp_Rh*n_RhRh/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.72478733  := 'reff + r_Rh_050K+r_Rh_050K-reff'
+     deltar =  0.03478733  := 'r_Rh_050K+r_Rh_050K-reff'
+     sigma2 =  0.00611295  := 'ss_Rh_050K+ss_Rh_050K'
+
+ = Path 'pezftinkwy' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Pd/feff0001.dat, from feff run 'RhK-Pd'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9233,  1.9233  2
+     reff   =  2.72000000
+     degen  =  1.00000000
+     n*s02  =  3.38587289  := 'amp_Rh*n_RhPd/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.73000144  := 'reff + r_Rh_050K+r_Pd_050K-reff'
+     deltar =  0.01000144  := 'r_Rh_050K+r_Pd_050K-reff'
+     sigma2 =  0.00440117  := 'ss_Rh_050K+ss_Pd_050K'
+
+ = Path 'pmdyf372mv' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Ir/feff0001.dat, from feff run 'RhK-Ir'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       1.9113,  0.0000, -1.9113  2
+     reff   =  2.70300000
+     degen  =  1.00000000
+     n*s02  =  3.0894e-09  := 'amp_Rh*n_RhIr/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.70787243  := 'reff + r_Rh_050K+r_Ir_050K-reff'
+     deltar =  0.00487243  := 'r_Rh_050K+r_Ir_050K-reff'
+     sigma2 =  0.00604683  := 'ss_Rh_050K+ss_Ir_050K'
+
+ = Path 'pq6rvqr664' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Pt/feff0001.dat, from feff run 'RhK-Pt'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9311,  1.9311  2
+     reff   =  2.73100000
+     degen  =  1.00000000
+     n*s02  =  2.18598228  := 'amp_Rh*n_RhPt/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.73384389  := 'reff + r_Rh_050K+r_Pt_050K-reff'
+     deltar =  0.00284389  := 'r_Rh_050K+r_Pt_050K-reff'
+     sigma2 =  0.00403157  := 'ss_Rh_050K+ss_Pt_050K'
+
+ dataset 10:
+ = Path 'pybrsargwy' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Ru/feff0001.dat, from feff run 'RhK-Ru'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.8979,  1.8979  2
+     reff   =  2.68400000
+     degen  =  1.00000000
+     n*s02  =  1.84620822  := 'amp_Rh*n_RhRu/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.69426244  := 'reff + r_Rh_100K+r_Ru_100K-reff'
+     deltar =  0.01026244  := 'r_Rh_100K+r_Ru_100K-reff'
+     sigma2 =  0.00360759  := 'ss_Rh_100K+ss_Ru_100K'
+
+ = Path 'pstyv5kbli' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Rh/feff0001.dat, from feff run 'RhK-Rh'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       1.9021,  0.0000, -1.9021  2
+     reff   =  2.69000000
+     degen  =  1.00000000
+     n*s02  =  2.92956571  := 'amp_Rh*n_RhRh/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.72676836  := 'reff + r_Rh_100K+r_Rh_100K-reff'
+     deltar =  0.03676836  := 'r_Rh_100K+r_Rh_100K-reff'
+     sigma2 =  0.00628690  := 'ss_Rh_100K+ss_Rh_100K'
+
+ = Path 'pezftinkwy' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Pd/feff0001.dat, from feff run 'RhK-Pd'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9233,  1.9233  2
+     reff   =  2.72000000
+     degen  =  1.00000000
+     n*s02  =  3.38587289  := 'amp_Rh*n_RhPd/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.72962944  := 'reff + r_Rh_100K+r_Pd_100K-reff'
+     deltar =  0.00962944  := 'r_Rh_100K+r_Pd_100K-reff'
+     sigma2 =  0.00460486  := 'ss_Rh_100K+ss_Pd_100K'
+
+ = Path 'pmdyf372mv' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Ir/feff0001.dat, from feff run 'RhK-Ir'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       1.9113,  0.0000, -1.9113  2
+     reff   =  2.70300000
+     degen  =  1.00000000
+     n*s02  =  3.0894e-09  := 'amp_Rh*n_RhIr/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.70777690  := 'reff + r_Rh_100K+r_Ir_100K-reff'
+     deltar =  0.00477690  := 'r_Rh_100K+r_Ir_100K-reff'
+     sigma2 =  0.00645841  := 'ss_Rh_100K+ss_Ir_100K'
+
+ = Path 'pq6rvqr664' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Pt/feff0001.dat, from feff run 'RhK-Pt'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9311,  1.9311  2
+     reff   =  2.73100000
+     degen  =  1.00000000
+     n*s02  =  2.18598228  := 'amp_Rh*n_RhPt/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.73699397  := 'reff + r_Rh_100K+r_Pt_100K-reff'
+     deltar =  0.00599397  := 'r_Rh_100K+r_Pt_100K-reff'
+     sigma2 =  0.00414500  := 'ss_Rh_100K+ss_Pt_100K'
+
+ dataset 11:
+ = Path 'pybrsargwy' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Ru/feff0001.dat, from feff run 'RhK-Ru'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.8979,  1.8979  2
+     reff   =  2.68400000
+     degen  =  1.00000000
+     n*s02  =  1.84620822  := 'amp_Rh*n_RhRu/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.69460802  := 'reff + r_Rh_150K+r_Ru_150K-reff'
+     deltar =  0.01060802  := 'r_Rh_150K+r_Ru_150K-reff'
+     sigma2 =  0.00354010  := 'ss_Rh_150K+ss_Ru_150K'
+
+ = Path 'pstyv5kbli' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Rh/feff0001.dat, from feff run 'RhK-Rh'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       1.9021,  0.0000, -1.9021  2
+     reff   =  2.69000000
+     degen  =  1.00000000
+     n*s02  =  2.92956571  := 'amp_Rh*n_RhRh/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.73146334  := 'reff + r_Rh_150K+r_Rh_150K-reff'
+     deltar =  0.04146334  := 'r_Rh_150K+r_Rh_150K-reff'
+     sigma2 =  0.00637814  := 'ss_Rh_150K+ss_Rh_150K'
+
+ = Path 'pezftinkwy' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Pd/feff0001.dat, from feff run 'RhK-Pd'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9233,  1.9233  2
+     reff   =  2.72000000
+     degen  =  1.00000000
+     n*s02  =  3.38587289  := 'amp_Rh*n_RhPd/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.73194103  := 'reff + r_Rh_150K+r_Pd_150K-reff'
+     deltar =  0.01194103  := 'r_Rh_150K+r_Pd_150K-reff'
+     sigma2 =  0.00502735  := 'ss_Rh_150K+ss_Pd_150K'
+
+ = Path 'pmdyf372mv' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Ir/feff0001.dat, from feff run 'RhK-Ir'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       1.9113,  0.0000, -1.9113  2
+     reff   =  2.70300000
+     degen  =  1.00000000
+     n*s02  =  3.0894e-09  := 'amp_Rh*n_RhIr/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.71241506  := 'reff + r_Rh_150K+r_Ir_150K-reff'
+     deltar =  0.00941506  := 'r_Rh_150K+r_Ir_150K-reff'
+     sigma2 =  0.00659109  := 'ss_Rh_150K+ss_Ir_150K'
+
+ = Path 'pq6rvqr664' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Pt/feff0001.dat, from feff run 'RhK-Pt'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9311,  1.9311  2
+     reff   =  2.73100000
+     degen  =  1.00000000
+     n*s02  =  2.18598228  := 'amp_Rh*n_RhPt/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.73575599  := 'reff + r_Rh_150K+r_Pt_150K-reff'
+     deltar =  0.00475599  := 'r_Rh_150K+r_Pt_150K-reff'
+     sigma2 =  0.00405793  := 'ss_Rh_150K+ss_Pt_150K'
+
+ dataset 12:
+ = Path 'pybrsargwy' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Ru/feff0001.dat, from feff run 'RhK-Ru'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.8979,  1.8979  2
+     reff   =  2.68400000
+     degen  =  1.00000000
+     n*s02  =  1.84620822  := 'amp_Rh*n_RhRu/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.69378970  := 'reff + r_Rh_200K+r_Ru_200K-reff'
+     deltar =  0.00978970  := 'r_Rh_200K+r_Ru_200K-reff'
+     sigma2 =  0.00433975  := 'ss_Rh_200K+ss_Ru_200K'
+
+ = Path 'pstyv5kbli' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Rh/feff0001.dat, from feff run 'RhK-Rh'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       1.9021,  0.0000, -1.9021  2
+     reff   =  2.69000000
+     degen  =  1.00000000
+     n*s02  =  2.92956571  := 'amp_Rh*n_RhRh/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.73054092  := 'reff + r_Rh_200K+r_Rh_200K-reff'
+     deltar =  0.04054092  := 'r_Rh_200K+r_Rh_200K-reff'
+     sigma2 =  0.00708577  := 'ss_Rh_200K+ss_Rh_200K'
+
+ = Path 'pezftinkwy' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Pd/feff0001.dat, from feff run 'RhK-Pd'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9233,  1.9233  2
+     reff   =  2.72000000
+     degen  =  1.00000000
+     n*s02  =  3.38587289  := 'amp_Rh*n_RhPd/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.73136456  := 'reff + r_Rh_200K+r_Pd_200K-reff'
+     deltar =  0.01136456  := 'r_Rh_200K+r_Pd_200K-reff'
+     sigma2 =  0.00573999  := 'ss_Rh_200K+ss_Pd_200K'
+
+ = Path 'pmdyf372mv' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Ir/feff0001.dat, from feff run 'RhK-Ir'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       1.9113,  0.0000, -1.9113  2
+     reff   =  2.70300000
+     degen  =  1.00000000
+     n*s02  =  3.0894e-09  := 'amp_Rh*n_RhIr/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.71112684  := 'reff + r_Rh_200K+r_Ir_200K-reff'
+     deltar =  0.00812684  := 'r_Rh_200K+r_Ir_200K-reff'
+     sigma2 =  0.00698051  := 'ss_Rh_200K+ss_Ir_200K'
+
+ = Path 'pq6rvqr664' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Pt/feff0001.dat, from feff run 'RhK-Pt'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9311,  1.9311  2
+     reff   =  2.73100000
+     degen  =  1.00000000
+     n*s02  =  2.18598228  := 'amp_Rh*n_RhPt/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.73124336  := 'reff + r_Rh_200K+r_Pt_200K-reff'
+     deltar =  2.4336e-04  := 'r_Rh_200K+r_Pt_200K-reff'
+     sigma2 =  0.00477079  := 'ss_Rh_200K+ss_Pt_200K'
+
+ dataset 13:
+ = Path 'pybrsargwy' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Ru/feff0001.dat, from feff run 'RhK-Ru'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.8979,  1.8979  2
+     reff   =  2.68400000
+     degen  =  1.00000000
+     n*s02  =  1.84620822  := 'amp_Rh*n_RhRu/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.69378483  := 'reff + r_Rh_300K+r_Ru_300K-reff'
+     deltar =  0.00978483  := 'r_Rh_300K+r_Ru_300K-reff'
+     sigma2 =  0.00568961  := 'ss_Rh_300K+ss_Ru_300K'
+
+ = Path 'pstyv5kbli' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Rh/feff0001.dat, from feff run 'RhK-Rh'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       1.9021,  0.0000, -1.9021  2
+     reff   =  2.69000000
+     degen  =  1.00000000
+     n*s02  =  2.92956571  := 'amp_Rh*n_RhRh/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.72701880  := 'reff + r_Rh_300K+r_Rh_300K-reff'
+     deltar =  0.03701880  := 'r_Rh_300K+r_Rh_300K-reff'
+     sigma2 =  0.00892731  := 'ss_Rh_300K+ss_Rh_300K'
+
+ = Path 'pezftinkwy' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Pd/feff0001.dat, from feff run 'RhK-Pd'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9233,  1.9233  2
+     reff   =  2.72000000
+     degen  =  1.00000000
+     n*s02  =  3.38587289  := 'amp_Rh*n_RhPd/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.72897159  := 'reff + r_Rh_300K+r_Pd_300K-reff'
+     deltar =  0.00897159  := 'r_Rh_300K+r_Pd_300K-reff'
+     sigma2 =  0.00732075  := 'ss_Rh_300K+ss_Pd_300K'
+
+ = Path 'pmdyf372mv' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Ir/feff0001.dat, from feff run 'RhK-Ir'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       1.9113,  0.0000, -1.9113  2
+     reff   =  2.70300000
+     degen  =  1.00000000
+     n*s02  =  3.0894e-09  := 'amp_Rh*n_RhIr/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.71045876  := 'reff + r_Rh_300K+r_Ir_300K-reff'
+     deltar =  0.00745876  := 'r_Rh_300K+r_Ir_300K-reff'
+     sigma2 =  0.00855775  := 'ss_Rh_300K+ss_Ir_300K'
+
+ = Path 'pq6rvqr664' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Pt/feff0001.dat, from feff run 'RhK-Pt'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9311,  1.9311  2
+     reff   =  2.73100000
+     degen  =  1.00000000
+     n*s02  =  2.18598228  := 'amp_Rh*n_RhPt/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.73207335  := 'reff + r_Rh_300K+r_Pt_300K-reff'
+     deltar =  0.00107335  := 'r_Rh_300K+r_Pt_300K-reff'
+     sigma2 =  0.00651752  := 'ss_Rh_300K+ss_Pt_300K'
+
+ dataset 14:
+ = Path 'pybrsargwy' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Ru/feff0001.dat, from feff run 'RhK-Ru'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.8979,  1.8979  2
+     reff   =  2.68400000
+     degen  =  1.00000000
+     n*s02  =  1.84620822  := 'amp_Rh*n_RhRu/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.68232419  := 'reff + r_Rh_100C+r_Ru_100C-reff'
+     deltar = -0.00167581  := 'r_Rh_100C+r_Ru_100C-reff'
+     sigma2 =  0.00692898  := 'ss_Rh_100C+ss_Ru_100C'
+
+ = Path 'pstyv5kbli' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Rh/feff0001.dat, from feff run 'RhK-Rh'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       1.9021,  0.0000, -1.9021  2
+     reff   =  2.69000000
+     degen  =  1.00000000
+     n*s02  =  2.92956571  := 'amp_Rh*n_RhRh/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.72662641  := 'reff + r_Rh_100C+r_Rh_100C-reff'
+     deltar =  0.03662641  := 'r_Rh_100C+r_Rh_100C-reff'
+     sigma2 =  0.01017699  := 'ss_Rh_100C+ss_Rh_100C'
+
+ = Path 'pezftinkwy' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Pd/feff0001.dat, from feff run 'RhK-Pd'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9233,  1.9233  2
+     reff   =  2.72000000
+     degen  =  1.00000000
+     n*s02  =  3.38587289  := 'amp_Rh*n_RhPd/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.72651772  := 'reff + r_Rh_100C+r_Pd_100C-reff'
+     deltar =  0.00651772  := 'r_Rh_100C+r_Pd_100C-reff'
+     sigma2 =  0.00927596  := 'ss_Rh_100C+ss_Pd_100C'
+
+ = Path 'pmdyf372mv' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Ir/feff0001.dat, from feff run 'RhK-Ir'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       1.9113,  0.0000, -1.9113  2
+     reff   =  2.70300000
+     degen  =  1.00000000
+     n*s02  =  3.0894e-09  := 'amp_Rh*n_RhIr/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.70894344  := 'reff + r_Rh_100C+r_Ir_100C-reff'
+     deltar =  0.00594344  := 'r_Rh_100C+r_Ir_100C-reff'
+     sigma2 =  0.00940204  := 'ss_Rh_100C+ss_Ir_100C'
+
+ = Path 'pq6rvqr664' = Rh K Edge
+    feffdat file = ./feffinp/RhK-Pt/feff0001.dat, from feff run 'RhK-Pt'
+    geometry  atom      x        y        z      ipot
+              Rh       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9311,  1.9311  2
+     reff   =  2.73100000
+     degen  =  1.00000000
+     n*s02  =  2.18598228  := 'amp_Rh*n_RhPt/x_Rh'
+     e0     =  0.40194618  := 'enot_Rh'
+     r      =  2.72767394  := 'reff + r_Rh_100C+r_Pt_100C-reff'
+     deltar = -0.00332606  := 'r_Rh_100C+r_Pt_100C-reff'
+     sigma2 =  0.00752035  := 'ss_Rh_100C+ss_Pt_100C'
+
+ dataset 15:
+ = Path 'pc7t4olod7' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Ru/feff0001.dat, from feff run 'PdK-Ru'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.9191,  1.9191  2
+     reff   =  2.71400000
+     degen  =  1.00000000
+     n*s02  =  1.5596e-07  := 'amp_Pd*n_PdRu/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.69734732  := 'reff + r_Pd_008K+r_Ru_008K-reff'
+     deltar = -0.01665268  := 'r_Pd_008K+r_Ru_008K-reff'
+     sigma2 =  0.00137732  := 'ss_Pd_008K+ss_Ru_008K'
+
+ = Path 'pzhkjkkoal' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Rh/feff0001.dat, from feff run 'PdK-Rh'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       0.0000,  1.9233,  1.9233  2
+     reff   =  2.72000000
+     degen  =  1.00000000
+     n*s02  =  3.21542420  := 'amp_Pd*n_PdRh/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.73057832  := 'reff + r_Pd_008K+r_Rh_008K-reff'
+     deltar =  0.01057832  := 'r_Pd_008K+r_Rh_008K-reff'
+     sigma2 =  0.00415216  := 'ss_Pd_008K+ss_Rh_008K'
+
+ = Path 'p7wljvk57q' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Pd/feff0001.dat, from feff run 'PdK-Pd'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9445,  1.9445  2
+     reff   =  2.75000000
+     degen  =  1.00000000
+     n*s02  =  4.50833452  := 'amp_Pd*n_PdPd/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.73241744  := 'reff + r_Pd_008K+r_Pd_008K-reff'
+     deltar = -0.01758256  := 'r_Pd_008K+r_Pd_008K-reff'
+     sigma2 =  0.00240573  := 'ss_Pd_008K+ss_Pd_008K'
+
+ = Path 'pr7xb3xpn4' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Ir/feff0001.dat, from feff run 'PdK-Ir'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       0.0000,  1.9325,  1.9325  2
+     reff   =  2.73300000
+     degen  =  1.00000000
+     n*s02  =  0.31921662  := 'amp_Pd*n_PdIr/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.71280406  := 'reff + r_Pd_008K+r_Ir_008K-reff'
+     deltar = -0.02019594  := 'r_Pd_008K+r_Ir_008K-reff'
+     sigma2 =  0.00422292  := 'ss_Pd_008K+ss_Ir_008K'
+
+ = Path 'pn7tjycgh2' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Pt/feff0001.dat, from feff run 'PdK-Pt'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9523,  1.9523  2
+     reff   =  2.76100000
+     degen  =  1.00000000
+     n*s02  =  1.34329763  := 'amp_Pd*n_PdPt/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.73725759  := 'reff + r_Pd_008K+r_Pt_008K-reff'
+     deltar = -0.02374241  := 'r_Pd_008K+r_Pt_008K-reff'
+     sigma2 =  0.00195631  := 'ss_Pd_008K+ss_Pt_008K'
+
+ dataset 16:
+ = Path 'pc7t4olod7' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Ru/feff0001.dat, from feff run 'PdK-Ru'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.9191,  1.9191  2
+     reff   =  2.71400000
+     degen  =  1.00000000
+     n*s02  =  1.5596e-07  := 'amp_Pd*n_PdRu/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.69984143  := 'reff + r_Pd_050K+r_Ru_050K-reff'
+     deltar = -0.01415857  := 'r_Pd_050K+r_Ru_050K-reff'
+     sigma2 =  0.00154822  := 'ss_Pd_050K+ss_Ru_050K'
+
+ = Path 'pzhkjkkoal' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Rh/feff0001.dat, from feff run 'PdK-Rh'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       0.0000,  1.9233,  1.9233  2
+     reff   =  2.72000000
+     degen  =  1.00000000
+     n*s02  =  3.21542420  := 'amp_Pd*n_PdRh/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.73000144  := 'reff + r_Pd_050K+r_Rh_050K-reff'
+     deltar =  0.01000144  := 'r_Pd_050K+r_Rh_050K-reff'
+     sigma2 =  0.00440117  := 'ss_Pd_050K+ss_Rh_050K'
+
+ = Path 'p7wljvk57q' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Pd/feff0001.dat, from feff run 'PdK-Pd'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9445,  1.9445  2
+     reff   =  2.75000000
+     degen  =  1.00000000
+     n*s02  =  4.50833452  := 'amp_Pd*n_PdPd/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.73521556  := 'reff + r_Pd_050K+r_Pd_050K-reff'
+     deltar = -0.01478444  := 'r_Pd_050K+r_Pd_050K-reff'
+     sigma2 =  0.00268940  := 'ss_Pd_050K+ss_Pd_050K'
+
+ = Path 'pr7xb3xpn4' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Ir/feff0001.dat, from feff run 'PdK-Ir'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       0.0000,  1.9325,  1.9325  2
+     reff   =  2.73300000
+     degen  =  1.00000000
+     n*s02  =  0.31921662  := 'amp_Pd*n_PdIr/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.71308654  := 'reff + r_Pd_050K+r_Ir_050K-reff'
+     deltar = -0.01991346  := 'r_Pd_050K+r_Ir_050K-reff'
+     sigma2 =  0.00433505  := 'ss_Pd_050K+ss_Ir_050K'
+
+ = Path 'pn7tjycgh2' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Pt/feff0001.dat, from feff run 'PdK-Pt'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9523,  1.9523  2
+     reff   =  2.76100000
+     degen  =  1.00000000
+     n*s02  =  1.34329763  := 'amp_Pd*n_PdPt/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.73905801  := 'reff + r_Pd_050K+r_Pt_050K-reff'
+     deltar = -0.02194199  := 'r_Pd_050K+r_Pt_050K-reff'
+     sigma2 =  0.00231980  := 'ss_Pd_050K+ss_Pt_050K'
+
+ dataset 17:
+ = Path 'pc7t4olod7' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Ru/feff0001.dat, from feff run 'PdK-Ru'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.9191,  1.9191  2
+     reff   =  2.71400000
+     degen  =  1.00000000
+     n*s02  =  1.5596e-07  := 'amp_Pd*n_PdRu/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.69712352  := 'reff + r_Pd_100K+r_Ru_100K-reff'
+     deltar = -0.01687648  := 'r_Pd_100K+r_Ru_100K-reff'
+     sigma2 =  0.00192556  := 'ss_Pd_100K+ss_Ru_100K'
+
+ = Path 'pzhkjkkoal' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Rh/feff0001.dat, from feff run 'PdK-Rh'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       0.0000,  1.9233,  1.9233  2
+     reff   =  2.72000000
+     degen  =  1.00000000
+     n*s02  =  3.21542420  := 'amp_Pd*n_PdRh/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.72962944  := 'reff + r_Pd_100K+r_Rh_100K-reff'
+     deltar =  0.00962944  := 'r_Pd_100K+r_Rh_100K-reff'
+     sigma2 =  0.00460486  := 'ss_Pd_100K+ss_Rh_100K'
+
+ = Path 'p7wljvk57q' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Pd/feff0001.dat, from feff run 'PdK-Pd'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9445,  1.9445  2
+     reff   =  2.75000000
+     degen  =  1.00000000
+     n*s02  =  4.50833452  := 'amp_Pd*n_PdPd/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.73249052  := 'reff + r_Pd_100K+r_Pd_100K-reff'
+     deltar = -0.01750948  := 'r_Pd_100K+r_Pd_100K-reff'
+     sigma2 =  0.00292283  := 'ss_Pd_100K+ss_Pd_100K'
+
+ = Path 'pr7xb3xpn4' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Ir/feff0001.dat, from feff run 'PdK-Ir'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       0.0000,  1.9325,  1.9325  2
+     reff   =  2.73300000
+     degen  =  1.00000000
+     n*s02  =  0.31921662  := 'amp_Pd*n_PdIr/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.71063798  := 'reff + r_Pd_100K+r_Ir_100K-reff'
+     deltar = -0.02236202  := 'r_Pd_100K+r_Ir_100K-reff'
+     sigma2 =  0.00477637  := 'ss_Pd_100K+ss_Ir_100K'
+
+ = Path 'pn7tjycgh2' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Pt/feff0001.dat, from feff run 'PdK-Pt'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9523,  1.9523  2
+     reff   =  2.76100000
+     degen  =  1.00000000
+     n*s02  =  1.34329763  := 'amp_Pd*n_PdPt/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.73985504  := 'reff + r_Pd_100K+r_Pt_100K-reff'
+     deltar = -0.02114496  := 'r_Pd_100K+r_Pt_100K-reff'
+     sigma2 =  0.00246297  := 'ss_Pd_100K+ss_Pt_100K'
+
+ dataset 18:
+ = Path 'pc7t4olod7' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Ru/feff0001.dat, from feff run 'PdK-Ru'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.9191,  1.9191  2
+     reff   =  2.71400000
+     degen  =  1.00000000
+     n*s02  =  1.5596e-07  := 'amp_Pd*n_PdRu/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.69508571  := 'reff + r_Pd_150K+r_Ru_150K-reff'
+     deltar = -0.01891429  := 'r_Pd_150K+r_Ru_150K-reff'
+     sigma2 =  0.00218931  := 'ss_Pd_150K+ss_Ru_150K'
+
+ = Path 'pzhkjkkoal' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Rh/feff0001.dat, from feff run 'PdK-Rh'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       0.0000,  1.9233,  1.9233  2
+     reff   =  2.72000000
+     degen  =  1.00000000
+     n*s02  =  3.21542420  := 'amp_Pd*n_PdRh/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.73194103  := 'reff + r_Pd_150K+r_Rh_150K-reff'
+     deltar =  0.01194103  := 'r_Pd_150K+r_Rh_150K-reff'
+     sigma2 =  0.00502735  := 'ss_Pd_150K+ss_Rh_150K'
+
+ = Path 'p7wljvk57q' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Pd/feff0001.dat, from feff run 'PdK-Pd'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9445,  1.9445  2
+     reff   =  2.75000000
+     degen  =  1.00000000
+     n*s02  =  4.50833452  := 'amp_Pd*n_PdPd/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.73241872  := 'reff + r_Pd_150K+r_Pd_150K-reff'
+     deltar = -0.01758128  := 'r_Pd_150K+r_Pd_150K-reff'
+     sigma2 =  0.00367656  := 'ss_Pd_150K+ss_Pd_150K'
+
+ = Path 'pr7xb3xpn4' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Ir/feff0001.dat, from feff run 'PdK-Ir'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       0.0000,  1.9325,  1.9325  2
+     reff   =  2.73300000
+     degen  =  1.00000000
+     n*s02  =  0.31921662  := 'amp_Pd*n_PdIr/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.71289276  := 'reff + r_Pd_150K+r_Ir_150K-reff'
+     deltar = -0.02010724  := 'r_Pd_150K+r_Ir_150K-reff'
+     sigma2 =  0.00524031  := 'ss_Pd_150K+ss_Ir_150K'
+
+ = Path 'pn7tjycgh2' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Pt/feff0001.dat, from feff run 'PdK-Pt'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9523,  1.9523  2
+     reff   =  2.76100000
+     degen  =  1.00000000
+     n*s02  =  1.34329763  := 'amp_Pd*n_PdPt/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.73623368  := 'reff + r_Pd_150K+r_Pt_150K-reff'
+     deltar = -0.02476632  := 'r_Pd_150K+r_Pt_150K-reff'
+     sigma2 =  0.00270715  := 'ss_Pd_150K+ss_Pt_150K'
+
+ dataset 19:
+ = Path 'pc7t4olod7' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Ru/feff0001.dat, from feff run 'PdK-Ru'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.9191,  1.9191  2
+     reff   =  2.71400000
+     degen  =  1.00000000
+     n*s02  =  1.5596e-07  := 'amp_Pd*n_PdRu/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.69461334  := 'reff + r_Pd_200K+r_Ru_200K-reff'
+     deltar = -0.01938666  := 'r_Pd_200K+r_Ru_200K-reff'
+     sigma2 =  0.00299398  := 'ss_Pd_200K+ss_Ru_200K'
+
+ = Path 'pzhkjkkoal' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Rh/feff0001.dat, from feff run 'PdK-Rh'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       0.0000,  1.9233,  1.9233  2
+     reff   =  2.72000000
+     degen  =  1.00000000
+     n*s02  =  3.21542420  := 'amp_Pd*n_PdRh/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.73136456  := 'reff + r_Pd_200K+r_Rh_200K-reff'
+     deltar =  0.01136456  := 'r_Pd_200K+r_Rh_200K-reff'
+     sigma2 =  0.00573999  := 'ss_Pd_200K+ss_Rh_200K'
+
+ = Path 'p7wljvk57q' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Pd/feff0001.dat, from feff run 'PdK-Pd'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9445,  1.9445  2
+     reff   =  2.75000000
+     degen  =  1.00000000
+     n*s02  =  4.50833452  := 'amp_Pd*n_PdPd/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.73218820  := 'reff + r_Pd_200K+r_Pd_200K-reff'
+     deltar = -0.01781180  := 'r_Pd_200K+r_Pd_200K-reff'
+     sigma2 =  0.00439422  := 'ss_Pd_200K+ss_Pd_200K'
+
+ = Path 'pr7xb3xpn4' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Ir/feff0001.dat, from feff run 'PdK-Ir'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       0.0000,  1.9325,  1.9325  2
+     reff   =  2.73300000
+     degen  =  1.00000000
+     n*s02  =  0.31921662  := 'amp_Pd*n_PdIr/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.71195048  := 'reff + r_Pd_200K+r_Ir_200K-reff'
+     deltar = -0.02104952  := 'r_Pd_200K+r_Ir_200K-reff'
+     sigma2 =  0.00563474  := 'ss_Pd_200K+ss_Ir_200K'
+
+ = Path 'pn7tjycgh2' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Pt/feff0001.dat, from feff run 'PdK-Pt'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9523,  1.9523  2
+     reff   =  2.76100000
+     degen  =  1.00000000
+     n*s02  =  1.34329763  := 'amp_Pd*n_PdPt/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.73206700  := 'reff + r_Pd_200K+r_Pt_200K-reff'
+     deltar = -0.02893300  := 'r_Pd_200K+r_Pt_200K-reff'
+     sigma2 =  0.00342502  := 'ss_Pd_200K+ss_Pt_200K'
+
+ dataset 20:
+ = Path 'pc7t4olod7' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Ru/feff0001.dat, from feff run 'PdK-Ru'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.9191,  1.9191  2
+     reff   =  2.71400000
+     degen  =  1.00000000
+     n*s02  =  1.5596e-07  := 'amp_Pd*n_PdRu/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.69573762  := 'reff + r_Pd_300K+r_Ru_300K-reff'
+     deltar = -0.01826238  := 'r_Pd_300K+r_Ru_300K-reff'
+     sigma2 =  0.00408304  := 'ss_Pd_300K+ss_Ru_300K'
+
+ = Path 'pzhkjkkoal' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Rh/feff0001.dat, from feff run 'PdK-Rh'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       0.0000,  1.9233,  1.9233  2
+     reff   =  2.72000000
+     degen  =  1.00000000
+     n*s02  =  3.21542420  := 'amp_Pd*n_PdRh/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.72897159  := 'reff + r_Pd_300K+r_Rh_300K-reff'
+     deltar =  0.00897159  := 'r_Pd_300K+r_Rh_300K-reff'
+     sigma2 =  0.00732075  := 'ss_Pd_300K+ss_Rh_300K'
+
+ = Path 'p7wljvk57q' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Pd/feff0001.dat, from feff run 'PdK-Pd'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9445,  1.9445  2
+     reff   =  2.75000000
+     degen  =  1.00000000
+     n*s02  =  4.50833452  := 'amp_Pd*n_PdPd/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.73092437  := 'reff + r_Pd_300K+r_Pd_300K-reff'
+     deltar = -0.01907563  := 'r_Pd_300K+r_Pd_300K-reff'
+     sigma2 =  0.00571418  := 'ss_Pd_300K+ss_Pd_300K'
+
+ = Path 'pr7xb3xpn4' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Ir/feff0001.dat, from feff run 'PdK-Ir'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       0.0000,  1.9325,  1.9325  2
+     reff   =  2.73300000
+     degen  =  1.00000000
+     n*s02  =  0.31921662  := 'amp_Pd*n_PdIr/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.71241154  := 'reff + r_Pd_300K+r_Ir_300K-reff'
+     deltar = -0.02058846  := 'r_Pd_300K+r_Ir_300K-reff'
+     sigma2 =  0.00695119  := 'ss_Pd_300K+ss_Ir_300K'
+
+ = Path 'pn7tjycgh2' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Pt/feff0001.dat, from feff run 'PdK-Pt'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9523,  1.9523  2
+     reff   =  2.76100000
+     degen  =  1.00000000
+     n*s02  =  1.34329763  := 'amp_Pd*n_PdPt/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.73402613  := 'reff + r_Pd_300K+r_Pt_300K-reff'
+     deltar = -0.02697387  := 'r_Pd_300K+r_Pt_300K-reff'
+     sigma2 =  0.00491096  := 'ss_Pd_300K+ss_Pt_300K'
+
+ dataset 21:
+ = Path 'pc7t4olod7' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Ru/feff0001.dat, from feff run 'PdK-Ru'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.9191,  1.9191  2
+     reff   =  2.71400000
+     degen  =  1.00000000
+     n*s02  =  1.5596e-07  := 'amp_Pd*n_PdRu/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.68221549  := 'reff + r_Pd_100C+r_Ru_100C-reff'
+     deltar = -0.03178451  := 'r_Pd_100C+r_Ru_100C-reff'
+     sigma2 =  0.00602795  := 'ss_Pd_100C+ss_Ru_100C'
+
+ = Path 'pzhkjkkoal' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Rh/feff0001.dat, from feff run 'PdK-Rh'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       0.0000,  1.9233,  1.9233  2
+     reff   =  2.72000000
+     degen  =  1.00000000
+     n*s02  =  3.21542420  := 'amp_Pd*n_PdRh/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.72651772  := 'reff + r_Pd_100C+r_Rh_100C-reff'
+     deltar =  0.00651772  := 'r_Pd_100C+r_Rh_100C-reff'
+     sigma2 =  0.00927596  := 'ss_Pd_100C+ss_Rh_100C'
+
+ = Path 'p7wljvk57q' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Pd/feff0001.dat, from feff run 'PdK-Pd'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9445,  1.9445  2
+     reff   =  2.75000000
+     degen  =  1.00000000
+     n*s02  =  4.50833452  := 'amp_Pd*n_PdPd/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.72640902  := 'reff + r_Pd_100C+r_Pd_100C-reff'
+     deltar = -0.02359098  := 'r_Pd_100C+r_Pd_100C-reff'
+     sigma2 =  0.00837493  := 'ss_Pd_100C+ss_Pd_100C'
+
+ = Path 'pr7xb3xpn4' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Ir/feff0001.dat, from feff run 'PdK-Ir'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       0.0000,  1.9325,  1.9325  2
+     reff   =  2.73300000
+     degen  =  1.00000000
+     n*s02  =  0.31921662  := 'amp_Pd*n_PdIr/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.70883474  := 'reff + r_Pd_100C+r_Ir_100C-reff'
+     deltar = -0.02416526  := 'r_Pd_100C+r_Ir_100C-reff'
+     sigma2 =  0.00850101  := 'ss_Pd_100C+ss_Ir_100C'
+
+ = Path 'pn7tjycgh2' = Pd K Edge
+    feffdat file = ./feffinp/PdK-Pt/feff0001.dat, from feff run 'PdK-Pt'
+    geometry  atom      x        y        z      ipot
+              Pd       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9523,  1.9523  2
+     reff   =  2.76100000
+     degen  =  1.00000000
+     n*s02  =  1.34329763  := 'amp_Pd*n_PdPt/x_Pd'
+     e0     =  0.99616384  := 'enot_Pd'
+     r      =  2.72756524  := 'reff + r_Pd_100C+r_Pt_100C-reff'
+     deltar = -0.03343476  := 'r_Pd_100C+r_Pt_100C-reff'
+     sigma2 =  0.00661931  := 'ss_Pd_100C+ss_Pt_100C'
+
+ dataset 22:
+ = Path 'p3vnbdsdtm' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Ru/feff0001.dat, from feff run 'IrL3-Ru'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.9071,  1.9071  2
+     reff   =  2.69700000
+     degen  =  1.00000000
+     n*s02  =  2.52015235  := 'amp_Ir*n_IrRu/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.67773394  := 'reff + r_Ir_008K+r_Ru_008K-reff'
+     deltar = -0.01926606  := 'r_Ir_008K+r_Ru_008K-reff'
+     sigma2 =  0.00319450  := 'ss_Ir_008K+ss_Ru_008K'
+
+ = Path 'px7wz7pltn' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Rh/feff0001.dat, from feff run 'IrL3-Rh'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       1.9113,  0.0000, -1.9113  2
+     reff   =  2.70300000
+     degen  =  1.00000000
+     n*s02  =  2.7983e-09  := 'amp_Ir*n_IrRh/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.71096495  := 'reff + r_Ir_008K+r_Rh_008K-reff'
+     deltar =  0.00796495  := 'r_Ir_008K+r_Rh_008K-reff'
+     sigma2 =  0.00596934  := 'ss_Ir_008K+ss_Rh_008K'
+
+ = Path 'p6vmtswlbf' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Pd/feff0001.dat, from feff run 'IrL3-Pd'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9325,  1.9325  2
+     reff   =  2.73300000
+     degen  =  1.00000000
+     n*s02  =  0.30446391  := 'amp_Ir*n_IrPd/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.71280406  := 'reff + r_Ir_008K+r_Pd_008K-reff'
+     deltar = -0.02019594  := 'r_Ir_008K+r_Pd_008K-reff'
+     sigma2 =  0.00422292  := 'ss_Ir_008K+ss_Pd_008K'
+
+ = Path 'pvd7wbnne5' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Ir/feff0001.dat, from feff run 'IrL3-Ir'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       0.0000,  1.9205,  1.9205  2
+     reff   =  2.71600000
+     degen  =  1.00000000
+     n*s02  =  6.09168673  := 'amp_Ir*n_IrIr/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.69319068  := 'reff + r_Ir_008K+r_Ir_008K-reff'
+     deltar = -0.02280932  := 'r_Ir_008K+r_Ir_008K-reff'
+     sigma2 =  0.00604010  := 'ss_Ir_008K+ss_Ir_008K'
+
+ = Path 'p36b3kqsrk' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Pt/feff0001.dat, from feff run 'IrL3-Pt'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9403,  1.9403  2
+     reff   =  2.74400000
+     degen  =  1.00000000
+     n*s02  =  1.7428e-05  := 'amp_Ir*n_IrPt/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.71764421  := 'reff + r_Ir_008K+r_Pt_008K-reff'
+     deltar = -0.02635579  := 'r_Ir_008K+r_Pt_008K-reff'
+     sigma2 =  0.00377350  := 'ss_Ir_008K+ss_Pt_008K'
+
+ dataset 23:
+ = Path 'p3vnbdsdtm' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Ru/feff0001.dat, from feff run 'IrL3-Ru'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.9071,  1.9071  2
+     reff   =  2.69700000
+     degen  =  1.00000000
+     n*s02  =  2.52015235  := 'amp_Ir*n_IrRu/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.67771241  := 'reff + r_Ir_050K+r_Ru_050K-reff'
+     deltar = -0.01928759  := 'r_Ir_050K+r_Ru_050K-reff'
+     sigma2 =  0.00319388  := 'ss_Ir_050K+ss_Ru_050K'
+
+ = Path 'px7wz7pltn' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Rh/feff0001.dat, from feff run 'IrL3-Rh'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       1.9113,  0.0000, -1.9113  2
+     reff   =  2.70300000
+     degen  =  1.00000000
+     n*s02  =  2.7983e-09  := 'amp_Ir*n_IrRh/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.70787243  := 'reff + r_Ir_050K+r_Rh_050K-reff'
+     deltar =  0.00487243  := 'r_Ir_050K+r_Rh_050K-reff'
+     sigma2 =  0.00604683  := 'ss_Ir_050K+ss_Rh_050K'
+
+ = Path 'p6vmtswlbf' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Pd/feff0001.dat, from feff run 'IrL3-Pd'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9325,  1.9325  2
+     reff   =  2.73300000
+     degen  =  1.00000000
+     n*s02  =  0.30446391  := 'amp_Ir*n_IrPd/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.71308654  := 'reff + r_Ir_050K+r_Pd_050K-reff'
+     deltar = -0.01991346  := 'r_Ir_050K+r_Pd_050K-reff'
+     sigma2 =  0.00433505  := 'ss_Ir_050K+ss_Pd_050K'
+
+ = Path 'pvd7wbnne5' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Ir/feff0001.dat, from feff run 'IrL3-Ir'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       0.0000,  1.9205,  1.9205  2
+     reff   =  2.71600000
+     degen  =  1.00000000
+     n*s02  =  6.09168673  := 'amp_Ir*n_IrIr/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.69095753  := 'reff + r_Ir_050K+r_Ir_050K-reff'
+     deltar = -0.02504247  := 'r_Ir_050K+r_Ir_050K-reff'
+     sigma2 =  0.00598071  := 'ss_Ir_050K+ss_Ir_050K'
+
+ = Path 'p36b3kqsrk' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Pt/feff0001.dat, from feff run 'IrL3-Pt'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9403,  1.9403  2
+     reff   =  2.74400000
+     degen  =  1.00000000
+     n*s02  =  1.7428e-05  := 'amp_Ir*n_IrPt/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.71692899  := 'reff + r_Ir_050K+r_Pt_050K-reff'
+     deltar = -0.02707101  := 'r_Ir_050K+r_Pt_050K-reff'
+     sigma2 =  0.00396545  := 'ss_Ir_050K+ss_Pt_050K'
+
+ dataset 24:
+ = Path 'p3vnbdsdtm' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Ru/feff0001.dat, from feff run 'IrL3-Ru'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.9071,  1.9071  2
+     reff   =  2.69700000
+     degen  =  1.00000000
+     n*s02  =  2.52015235  := 'amp_Ir*n_IrRu/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.67527098  := 'reff + r_Ir_100K+r_Ru_100K-reff'
+     deltar = -0.02172902  := 'r_Ir_100K+r_Ru_100K-reff'
+     sigma2 =  0.00377910  := 'ss_Ir_100K+ss_Ru_100K'
+
+ = Path 'px7wz7pltn' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Rh/feff0001.dat, from feff run 'IrL3-Rh'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       1.9113,  0.0000, -1.9113  2
+     reff   =  2.70300000
+     degen  =  1.00000000
+     n*s02  =  2.7983e-09  := 'amp_Ir*n_IrRh/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.70777690  := 'reff + r_Ir_100K+r_Rh_100K-reff'
+     deltar =  0.00477690  := 'r_Ir_100K+r_Rh_100K-reff'
+     sigma2 =  0.00645841  := 'ss_Ir_100K+ss_Rh_100K'
+
+ = Path 'p6vmtswlbf' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Pd/feff0001.dat, from feff run 'IrL3-Pd'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9325,  1.9325  2
+     reff   =  2.73300000
+     degen  =  1.00000000
+     n*s02  =  0.30446391  := 'amp_Ir*n_IrPd/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.71063798  := 'reff + r_Ir_100K+r_Pd_100K-reff'
+     deltar = -0.02236202  := 'r_Ir_100K+r_Pd_100K-reff'
+     sigma2 =  0.00477637  := 'ss_Ir_100K+ss_Pd_100K'
+
+ = Path 'pvd7wbnne5' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Ir/feff0001.dat, from feff run 'IrL3-Ir'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       0.0000,  1.9205,  1.9205  2
+     reff   =  2.71600000
+     degen  =  1.00000000
+     n*s02  =  6.09168673  := 'amp_Ir*n_IrIr/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.68878544  := 'reff + r_Ir_100K+r_Ir_100K-reff'
+     deltar = -0.02721456  := 'r_Ir_100K+r_Ir_100K-reff'
+     sigma2 =  0.00662992  := 'ss_Ir_100K+ss_Ir_100K'
+
+ = Path 'p36b3kqsrk' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Pt/feff0001.dat, from feff run 'IrL3-Pt'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9403,  1.9403  2
+     reff   =  2.74400000
+     degen  =  1.00000000
+     n*s02  =  1.7428e-05  := 'amp_Ir*n_IrPt/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.71800250  := 'reff + r_Ir_100K+r_Pt_100K-reff'
+     deltar = -0.02599750  := 'r_Ir_100K+r_Pt_100K-reff'
+     sigma2 =  0.00431651  := 'ss_Ir_100K+ss_Pt_100K'
+
+ dataset 25:
+ = Path 'p3vnbdsdtm' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Ru/feff0001.dat, from feff run 'IrL3-Ru'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.9071,  1.9071  2
+     reff   =  2.69700000
+     degen  =  1.00000000
+     n*s02  =  2.52015235  := 'amp_Ir*n_IrRu/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.67555974  := 'reff + r_Ir_150K+r_Ru_150K-reff'
+     deltar = -0.02144026  := 'r_Ir_150K+r_Ru_150K-reff'
+     sigma2 =  0.00375305  := 'ss_Ir_150K+ss_Ru_150K'
+
+ = Path 'px7wz7pltn' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Rh/feff0001.dat, from feff run 'IrL3-Rh'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       1.9113,  0.0000, -1.9113  2
+     reff   =  2.70300000
+     degen  =  1.00000000
+     n*s02  =  2.7983e-09  := 'amp_Ir*n_IrRh/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.71241506  := 'reff + r_Ir_150K+r_Rh_150K-reff'
+     deltar =  0.00941506  := 'r_Ir_150K+r_Rh_150K-reff'
+     sigma2 =  0.00659109  := 'ss_Ir_150K+ss_Rh_150K'
+
+ = Path 'p6vmtswlbf' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Pd/feff0001.dat, from feff run 'IrL3-Pd'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9325,  1.9325  2
+     reff   =  2.73300000
+     degen  =  1.00000000
+     n*s02  =  0.30446391  := 'amp_Ir*n_IrPd/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.71289276  := 'reff + r_Ir_150K+r_Pd_150K-reff'
+     deltar = -0.02010724  := 'r_Ir_150K+r_Pd_150K-reff'
+     sigma2 =  0.00524031  := 'ss_Ir_150K+ss_Pd_150K'
+
+ = Path 'pvd7wbnne5' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Ir/feff0001.dat, from feff run 'IrL3-Ir'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       0.0000,  1.9205,  1.9205  2
+     reff   =  2.71600000
+     degen  =  1.00000000
+     n*s02  =  6.09168673  := 'amp_Ir*n_IrIr/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.69336679  := 'reff + r_Ir_150K+r_Ir_150K-reff'
+     deltar = -0.02263321  := 'r_Ir_150K+r_Ir_150K-reff'
+     sigma2 =  0.00680405  := 'ss_Ir_150K+ss_Ir_150K'
+
+ = Path 'p36b3kqsrk' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Pt/feff0001.dat, from feff run 'IrL3-Pt'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9403,  1.9403  2
+     reff   =  2.74400000
+     degen  =  1.00000000
+     n*s02  =  1.7428e-05  := 'amp_Ir*n_IrPt/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.71670772  := 'reff + r_Ir_150K+r_Pt_150K-reff'
+     deltar = -0.02729228  := 'r_Ir_150K+r_Pt_150K-reff'
+     sigma2 =  0.00427089  := 'ss_Ir_150K+ss_Pt_150K'
+
+ dataset 26:
+ = Path 'p3vnbdsdtm' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Ru/feff0001.dat, from feff run 'IrL3-Ru'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.9071,  1.9071  2
+     reff   =  2.69700000
+     degen  =  1.00000000
+     n*s02  =  2.52015235  := 'amp_Ir*n_IrRu/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.67437561  := 'reff + r_Ir_200K+r_Ru_200K-reff'
+     deltar = -0.02262439  := 'r_Ir_200K+r_Ru_200K-reff'
+     sigma2 =  0.00423449  := 'ss_Ir_200K+ss_Ru_200K'
+
+ = Path 'px7wz7pltn' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Rh/feff0001.dat, from feff run 'IrL3-Rh'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       1.9113,  0.0000, -1.9113  2
+     reff   =  2.70300000
+     degen  =  1.00000000
+     n*s02  =  2.7983e-09  := 'amp_Ir*n_IrRh/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.71112684  := 'reff + r_Ir_200K+r_Rh_200K-reff'
+     deltar =  0.00812684  := 'r_Ir_200K+r_Rh_200K-reff'
+     sigma2 =  0.00698051  := 'ss_Ir_200K+ss_Rh_200K'
+
+ = Path 'p6vmtswlbf' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Pd/feff0001.dat, from feff run 'IrL3-Pd'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9325,  1.9325  2
+     reff   =  2.73300000
+     degen  =  1.00000000
+     n*s02  =  0.30446391  := 'amp_Ir*n_IrPd/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.71195048  := 'reff + r_Ir_200K+r_Pd_200K-reff'
+     deltar = -0.02104952  := 'r_Ir_200K+r_Pd_200K-reff'
+     sigma2 =  0.00563474  := 'ss_Ir_200K+ss_Pd_200K'
+
+ = Path 'pvd7wbnne5' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Ir/feff0001.dat, from feff run 'IrL3-Ir'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       0.0000,  1.9205,  1.9205  2
+     reff   =  2.71600000
+     degen  =  1.00000000
+     n*s02  =  6.09168673  := 'amp_Ir*n_IrIr/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.69171275  := 'reff + r_Ir_200K+r_Ir_200K-reff'
+     deltar = -0.02428725  := 'r_Ir_200K+r_Ir_200K-reff'
+     sigma2 =  0.00687525  := 'ss_Ir_200K+ss_Ir_200K'
+
+ = Path 'p36b3kqsrk' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Pt/feff0001.dat, from feff run 'IrL3-Pt'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9403,  1.9403  2
+     reff   =  2.74400000
+     degen  =  1.00000000
+     n*s02  =  1.7428e-05  := 'amp_Ir*n_IrPt/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.71182927  := 'reff + r_Ir_200K+r_Pt_200K-reff'
+     deltar = -0.03217073  := 'r_Ir_200K+r_Pt_200K-reff'
+     sigma2 =  0.00466554  := 'ss_Ir_200K+ss_Pt_200K'
+
+ dataset 27:
+ = Path 'p3vnbdsdtm' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Ru/feff0001.dat, from feff run 'IrL3-Ru'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.9071,  1.9071  2
+     reff   =  2.69700000
+     degen  =  1.00000000
+     n*s02  =  2.52015235  := 'amp_Ir*n_IrRu/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.67722479  := 'reff + r_Ir_300K+r_Ru_300K-reff'
+     deltar = -0.01977521  := 'r_Ir_300K+r_Ru_300K-reff'
+     sigma2 =  0.00532005  := 'ss_Ir_300K+ss_Ru_300K'
+
+ = Path 'px7wz7pltn' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Rh/feff0001.dat, from feff run 'IrL3-Rh'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       1.9113,  0.0000, -1.9113  2
+     reff   =  2.70300000
+     degen  =  1.00000000
+     n*s02  =  2.7983e-09  := 'amp_Ir*n_IrRh/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.71045876  := 'reff + r_Ir_300K+r_Rh_300K-reff'
+     deltar =  0.00745876  := 'r_Ir_300K+r_Rh_300K-reff'
+     sigma2 =  0.00855775  := 'ss_Ir_300K+ss_Rh_300K'
+
+ = Path 'p6vmtswlbf' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Pd/feff0001.dat, from feff run 'IrL3-Pd'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9325,  1.9325  2
+     reff   =  2.73300000
+     degen  =  1.00000000
+     n*s02  =  0.30446391  := 'amp_Ir*n_IrPd/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.71241154  := 'reff + r_Ir_300K+r_Pd_300K-reff'
+     deltar = -0.02058846  := 'r_Ir_300K+r_Pd_300K-reff'
+     sigma2 =  0.00695119  := 'ss_Ir_300K+ss_Pd_300K'
+
+ = Path 'pvd7wbnne5' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Ir/feff0001.dat, from feff run 'IrL3-Ir'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       0.0000,  1.9205,  1.9205  2
+     reff   =  2.71600000
+     degen  =  1.00000000
+     n*s02  =  6.09168673  := 'amp_Ir*n_IrIr/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.69389872  := 'reff + r_Ir_300K+r_Ir_300K-reff'
+     deltar = -0.02210128  := 'r_Ir_300K+r_Ir_300K-reff'
+     sigma2 =  0.00818820  := 'ss_Ir_300K+ss_Ir_300K'
+
+ = Path 'p36b3kqsrk' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Pt/feff0001.dat, from feff run 'IrL3-Pt'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9403,  1.9403  2
+     reff   =  2.74400000
+     degen  =  1.00000000
+     n*s02  =  1.7428e-05  := 'amp_Ir*n_IrPt/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.71551331  := 'reff + r_Ir_300K+r_Pt_300K-reff'
+     deltar = -0.02848669  := 'r_Ir_300K+r_Pt_300K-reff'
+     sigma2 =  0.00614797  := 'ss_Ir_300K+ss_Pt_300K'
+
+ dataset 28:
+ = Path 'p3vnbdsdtm' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Ru/feff0001.dat, from feff run 'IrL3-Ru'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.9071,  1.9071  2
+     reff   =  2.69700000
+     degen  =  1.00000000
+     n*s02  =  2.52015235  := 'amp_Ir*n_IrRu/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.66464122  := 'reff + r_Ir_100C+r_Ru_100C-reff'
+     deltar = -0.03235878  := 'r_Ir_100C+r_Ru_100C-reff'
+     sigma2 =  0.00615403  := 'ss_Ir_100C+ss_Ru_100C'
+
+ = Path 'px7wz7pltn' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Rh/feff0001.dat, from feff run 'IrL3-Rh'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       1.9113,  0.0000, -1.9113  2
+     reff   =  2.70300000
+     degen  =  1.00000000
+     n*s02  =  2.7983e-09  := 'amp_Ir*n_IrRh/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.70894344  := 'reff + r_Ir_100C+r_Rh_100C-reff'
+     deltar =  0.00594344  := 'r_Ir_100C+r_Rh_100C-reff'
+     sigma2 =  0.00940204  := 'ss_Ir_100C+ss_Rh_100C'
+
+ = Path 'p6vmtswlbf' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Pd/feff0001.dat, from feff run 'IrL3-Pd'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9325,  1.9325  2
+     reff   =  2.73300000
+     degen  =  1.00000000
+     n*s02  =  0.30446391  := 'amp_Ir*n_IrPd/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.70883474  := 'reff + r_Ir_100C+r_Pd_100C-reff'
+     deltar = -0.02416526  := 'r_Ir_100C+r_Pd_100C-reff'
+     sigma2 =  0.00850101  := 'ss_Ir_100C+ss_Pd_100C'
+
+ = Path 'pvd7wbnne5' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Ir/feff0001.dat, from feff run 'IrL3-Ir'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       0.0000,  1.9205,  1.9205  2
+     reff   =  2.71600000
+     degen  =  1.00000000
+     n*s02  =  6.09168673  := 'amp_Ir*n_IrIr/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.69126047  := 'reff + r_Ir_100C+r_Ir_100C-reff'
+     deltar = -0.02473953  := 'r_Ir_100C+r_Ir_100C-reff'
+     sigma2 =  0.00862709  := 'ss_Ir_100C+ss_Ir_100C'
+
+ = Path 'p36b3kqsrk' = Ir LIII Edge
+    feffdat file = ./feffinp/IrL3-Pt/feff0001.dat, from feff run 'IrL3-Pt'
+    geometry  atom      x        y        z      ipot
+              Ir       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9403,  1.9403  2
+     reff   =  2.74400000
+     degen  =  1.00000000
+     n*s02  =  1.7428e-05  := 'amp_Ir*n_IrPt/x_Ir'
+     e0     =  8.44734966  := 'enot_Ir'
+     r      =  2.70999096  := 'reff + r_Ir_100C+r_Pt_100C-reff'
+     deltar = -0.03400904  := 'r_Ir_100C+r_Pt_100C-reff'
+     sigma2 =  0.00674539  := 'ss_Ir_100C+ss_Pt_100C'
+
+ dataset 29:
+ = Path 'pfzylcertf' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Ru/feff0001.dat, from feff run 'PtL3-Ru'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.9269,  1.9269  2
+     reff   =  2.72500000
+     degen  =  1.00000000
+     n*s02  =  0.30927413  := 'amp_Pt*n_PtRu/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.70218746  := 'reff + r_Pt_008K+r_Ru_008K-reff'
+     deltar = -0.02281254  := 'r_Pt_008K+r_Ru_008K-reff'
+     sigma2 =  9.2790e-04  := 'ss_Pt_008K+ss_Ru_008K'
+
+ = Path 'pamnjuqss6' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Rh/feff0001.dat, from feff run 'PtL3-Rh'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       0.0000,  1.9311,  1.9311  2
+     reff   =  2.73100000
+     degen  =  1.00000000
+     n*s02  =  2.32462344  := 'amp_Pt*n_PtRh/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.73541847  := 'reff + r_Pt_008K+r_Rh_008K-reff'
+     deltar =  0.00441847  := 'r_Pt_008K+r_Rh_008K-reff'
+     sigma2 =  0.00370274  := 'ss_Pt_008K+ss_Rh_008K'
+
+ = Path 'psqdgt7gxs' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Pd/feff0001.dat, from feff run 'PtL3-Pd'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9523,  1.9523  2
+     reff   =  2.76100000
+     degen  =  1.00000000
+     n*s02  =  1.50421737  := 'amp_Pt*n_PtPd/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.73725759  := 'reff + r_Pt_008K+r_Pd_008K-reff'
+     deltar = -0.02374241  := 'r_Pt_008K+r_Pd_008K-reff'
+     sigma2 =  0.00195631  := 'ss_Pt_008K+ss_Pd_008K'
+
+ = Path 'p3pfqev33x' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Ir/feff0001.dat, from feff run 'PtL3-Ir'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       0.0000,  1.9403,  1.9403  2
+     reff   =  2.74400000
+     degen  =  1.00000000
+     n*s02  =  2.0461e-05  := 'amp_Pt*n_PtIr/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.71764421  := 'reff + r_Pt_008K+r_Ir_008K-reff'
+     deltar = -0.02635579  := 'r_Pt_008K+r_Ir_008K-reff'
+     sigma2 =  0.00377350  := 'ss_Pt_008K+ss_Ir_008K'
+
+ = Path 'p2emrxnnct' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Pt/feff0001.dat, from feff run 'PtL3-Pt'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9601,  1.9601  2
+     reff   =  2.77200000
+     degen  =  1.00000000
+     n*s02  =  2.06617661  := 'amp_Pt*n_PtPt/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.74209773  := 'reff + r_Pt_008K+r_Pt_008K-reff'
+     deltar = -0.02990227  := 'r_Pt_008K+r_Pt_008K-reff'
+     sigma2 =  0.00150689  := 'ss_Pt_008K+ss_Pt_008K'
+
+ dataset 30:
+ = Path 'pfzylcertf' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Ru/feff0001.dat, from feff run 'PtL3-Ru'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.9269,  1.9269  2
+     reff   =  2.72500000
+     degen  =  1.00000000
+     n*s02  =  0.30927413  := 'amp_Pt*n_PtRu/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.70368388  := 'reff + r_Pt_050K+r_Ru_050K-reff'
+     deltar = -0.02131612  := 'r_Pt_050K+r_Ru_050K-reff'
+     sigma2 =  0.00117862  := 'ss_Pt_050K+ss_Ru_050K'
+
+ = Path 'pamnjuqss6' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Rh/feff0001.dat, from feff run 'PtL3-Rh'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       0.0000,  1.9311,  1.9311  2
+     reff   =  2.73100000
+     degen  =  1.00000000
+     n*s02  =  2.32462344  := 'amp_Pt*n_PtRh/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.73384389  := 'reff + r_Pt_050K+r_Rh_050K-reff'
+     deltar =  0.00284389  := 'r_Pt_050K+r_Rh_050K-reff'
+     sigma2 =  0.00403157  := 'ss_Pt_050K+ss_Rh_050K'
+
+ = Path 'psqdgt7gxs' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Pd/feff0001.dat, from feff run 'PtL3-Pd'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9523,  1.9523  2
+     reff   =  2.76100000
+     degen  =  1.00000000
+     n*s02  =  1.50421737  := 'amp_Pt*n_PtPd/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.73905801  := 'reff + r_Pt_050K+r_Pd_050K-reff'
+     deltar = -0.02194199  := 'r_Pt_050K+r_Pd_050K-reff'
+     sigma2 =  0.00231980  := 'ss_Pt_050K+ss_Pd_050K'
+
+ = Path 'p3pfqev33x' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Ir/feff0001.dat, from feff run 'PtL3-Ir'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       0.0000,  1.9403,  1.9403  2
+     reff   =  2.74400000
+     degen  =  1.00000000
+     n*s02  =  2.0461e-05  := 'amp_Pt*n_PtIr/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.71692899  := 'reff + r_Pt_050K+r_Ir_050K-reff'
+     deltar = -0.02707101  := 'r_Pt_050K+r_Ir_050K-reff'
+     sigma2 =  0.00396545  := 'ss_Pt_050K+ss_Ir_050K'
+
+ = Path 'p2emrxnnct' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Pt/feff0001.dat, from feff run 'PtL3-Pt'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9601,  1.9601  2
+     reff   =  2.77200000
+     degen  =  1.00000000
+     n*s02  =  2.06617661  := 'amp_Pt*n_PtPt/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.74290045  := 'reff + r_Pt_050K+r_Pt_050K-reff'
+     deltar = -0.02909955  := 'r_Pt_050K+r_Pt_050K-reff'
+     sigma2 =  0.00195019  := 'ss_Pt_050K+ss_Pt_050K'
+
+ dataset 31:
+ = Path 'pfzylcertf' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Ru/feff0001.dat, from feff run 'PtL3-Ru'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.9269,  1.9269  2
+     reff   =  2.72500000
+     degen  =  1.00000000
+     n*s02  =  0.30927413  := 'amp_Pt*n_PtRu/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.70448804  := 'reff + r_Pt_100K+r_Ru_100K-reff'
+     deltar = -0.02051196  := 'r_Pt_100K+r_Ru_100K-reff'
+     sigma2 =  0.00146570  := 'ss_Pt_100K+ss_Ru_100K'
+
+ = Path 'pamnjuqss6' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Rh/feff0001.dat, from feff run 'PtL3-Rh'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       0.0000,  1.9311,  1.9311  2
+     reff   =  2.73100000
+     degen  =  1.00000000
+     n*s02  =  2.32462344  := 'amp_Pt*n_PtRh/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.73699397  := 'reff + r_Pt_100K+r_Rh_100K-reff'
+     deltar =  0.00599397  := 'r_Pt_100K+r_Rh_100K-reff'
+     sigma2 =  0.00414500  := 'ss_Pt_100K+ss_Rh_100K'
+
+ = Path 'psqdgt7gxs' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Pd/feff0001.dat, from feff run 'PtL3-Pd'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9523,  1.9523  2
+     reff   =  2.76100000
+     degen  =  1.00000000
+     n*s02  =  1.50421737  := 'amp_Pt*n_PtPd/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.73985504  := 'reff + r_Pt_100K+r_Pd_100K-reff'
+     deltar = -0.02114496  := 'r_Pt_100K+r_Pd_100K-reff'
+     sigma2 =  0.00246297  := 'ss_Pt_100K+ss_Pd_100K'
+
+ = Path 'p3pfqev33x' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Ir/feff0001.dat, from feff run 'PtL3-Ir'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       0.0000,  1.9403,  1.9403  2
+     reff   =  2.74400000
+     degen  =  1.00000000
+     n*s02  =  2.0461e-05  := 'amp_Pt*n_PtIr/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.71800250  := 'reff + r_Pt_100K+r_Ir_100K-reff'
+     deltar = -0.02599750  := 'r_Pt_100K+r_Ir_100K-reff'
+     sigma2 =  0.00431651  := 'ss_Pt_100K+ss_Ir_100K'
+
+ = Path 'p2emrxnnct' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Pt/feff0001.dat, from feff run 'PtL3-Pt'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9601,  1.9601  2
+     reff   =  2.77200000
+     degen  =  1.00000000
+     n*s02  =  2.06617661  := 'amp_Pt*n_PtPt/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.74721957  := 'reff + r_Pt_100K+r_Pt_100K-reff'
+     deltar = -0.02478043  := 'r_Pt_100K+r_Pt_100K-reff'
+     sigma2 =  0.00200311  := 'ss_Pt_100K+ss_Pt_100K'
+
+ dataset 32:
+ = Path 'pfzylcertf' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Ru/feff0001.dat, from feff run 'PtL3-Ru'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.9269,  1.9269  2
+     reff   =  2.72500000
+     degen  =  1.00000000
+     n*s02  =  0.30927413  := 'amp_Pt*n_PtRu/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.69890067  := 'reff + r_Pt_150K+r_Ru_150K-reff'
+     deltar = -0.02609933  := 'r_Pt_150K+r_Ru_150K-reff'
+     sigma2 =  0.00121989  := 'ss_Pt_150K+ss_Ru_150K'
+
+ = Path 'pamnjuqss6' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Rh/feff0001.dat, from feff run 'PtL3-Rh'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       0.0000,  1.9311,  1.9311  2
+     reff   =  2.73100000
+     degen  =  1.00000000
+     n*s02  =  2.32462344  := 'amp_Pt*n_PtRh/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.73575599  := 'reff + r_Pt_150K+r_Rh_150K-reff'
+     deltar =  0.00475599  := 'r_Pt_150K+r_Rh_150K-reff'
+     sigma2 =  0.00405793  := 'ss_Pt_150K+ss_Rh_150K'
+
+ = Path 'psqdgt7gxs' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Pd/feff0001.dat, from feff run 'PtL3-Pd'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9523,  1.9523  2
+     reff   =  2.76100000
+     degen  =  1.00000000
+     n*s02  =  1.50421737  := 'amp_Pt*n_PtPd/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.73623368  := 'reff + r_Pt_150K+r_Pd_150K-reff'
+     deltar = -0.02476632  := 'r_Pt_150K+r_Pd_150K-reff'
+     sigma2 =  0.00270715  := 'ss_Pt_150K+ss_Pd_150K'
+
+ = Path 'p3pfqev33x' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Ir/feff0001.dat, from feff run 'PtL3-Ir'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       0.0000,  1.9403,  1.9403  2
+     reff   =  2.74400000
+     degen  =  1.00000000
+     n*s02  =  2.0461e-05  := 'amp_Pt*n_PtIr/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.71670772  := 'reff + r_Pt_150K+r_Ir_150K-reff'
+     deltar = -0.02729228  := 'r_Pt_150K+r_Ir_150K-reff'
+     sigma2 =  0.00427089  := 'ss_Pt_150K+ss_Ir_150K'
+
+ = Path 'p2emrxnnct' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Pt/feff0001.dat, from feff run 'PtL3-Pt'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9601,  1.9601  2
+     reff   =  2.77200000
+     degen  =  1.00000000
+     n*s02  =  2.06617661  := 'amp_Pt*n_PtPt/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.74004865  := 'reff + r_Pt_150K+r_Pt_150K-reff'
+     deltar = -0.03195135  := 'r_Pt_150K+r_Pt_150K-reff'
+     sigma2 =  0.00173773  := 'ss_Pt_150K+ss_Pt_150K'
+
+ dataset 33:
+ = Path 'pfzylcertf' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Ru/feff0001.dat, from feff run 'PtL3-Ru'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.9269,  1.9269  2
+     reff   =  2.72500000
+     degen  =  1.00000000
+     n*s02  =  0.30927413  := 'amp_Pt*n_PtRu/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.69449214  := 'reff + r_Pt_200K+r_Ru_200K-reff'
+     deltar = -0.03050786  := 'r_Pt_200K+r_Ru_200K-reff'
+     sigma2 =  0.00202478  := 'ss_Pt_200K+ss_Ru_200K'
+
+ = Path 'pamnjuqss6' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Rh/feff0001.dat, from feff run 'PtL3-Rh'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       0.0000,  1.9311,  1.9311  2
+     reff   =  2.73100000
+     degen  =  1.00000000
+     n*s02  =  2.32462344  := 'amp_Pt*n_PtRh/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.73124336  := 'reff + r_Pt_200K+r_Rh_200K-reff'
+     deltar =  2.4336e-04  := 'r_Pt_200K+r_Rh_200K-reff'
+     sigma2 =  0.00477079  := 'ss_Pt_200K+ss_Rh_200K'
+
+ = Path 'psqdgt7gxs' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Pd/feff0001.dat, from feff run 'PtL3-Pd'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9523,  1.9523  2
+     reff   =  2.76100000
+     degen  =  1.00000000
+     n*s02  =  1.50421737  := 'amp_Pt*n_PtPd/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.73206700  := 'reff + r_Pt_200K+r_Pd_200K-reff'
+     deltar = -0.02893300  := 'r_Pt_200K+r_Pd_200K-reff'
+     sigma2 =  0.00342502  := 'ss_Pt_200K+ss_Pd_200K'
+
+ = Path 'p3pfqev33x' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Ir/feff0001.dat, from feff run 'PtL3-Ir'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       0.0000,  1.9403,  1.9403  2
+     reff   =  2.74400000
+     degen  =  1.00000000
+     n*s02  =  2.0461e-05  := 'amp_Pt*n_PtIr/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.71182927  := 'reff + r_Pt_200K+r_Ir_200K-reff'
+     deltar = -0.03217073  := 'r_Pt_200K+r_Ir_200K-reff'
+     sigma2 =  0.00466554  := 'ss_Pt_200K+ss_Ir_200K'
+
+ = Path 'p2emrxnnct' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Pt/feff0001.dat, from feff run 'PtL3-Pt'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9601,  1.9601  2
+     reff   =  2.77200000
+     degen  =  1.00000000
+     n*s02  =  2.06617661  := 'amp_Pt*n_PtPt/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.73194579  := 'reff + r_Pt_200K+r_Pt_200K-reff'
+     deltar = -0.04005421  := 'r_Pt_200K+r_Pt_200K-reff'
+     sigma2 =  0.00245582  := 'ss_Pt_200K+ss_Pt_200K'
+
+ dataset 34:
+ = Path 'pfzylcertf' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Ru/feff0001.dat, from feff run 'PtL3-Ru'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.9269,  1.9269  2
+     reff   =  2.72500000
+     degen  =  1.00000000
+     n*s02  =  0.30927413  := 'amp_Pt*n_PtRu/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.69883938  := 'reff + r_Pt_300K+r_Ru_300K-reff'
+     deltar = -0.02616062  := 'r_Pt_300K+r_Ru_300K-reff'
+     sigma2 =  0.00327982  := 'ss_Pt_300K+ss_Ru_300K'
+
+ = Path 'pamnjuqss6' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Rh/feff0001.dat, from feff run 'PtL3-Rh'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       0.0000,  1.9311,  1.9311  2
+     reff   =  2.73100000
+     degen  =  1.00000000
+     n*s02  =  2.32462344  := 'amp_Pt*n_PtRh/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.73207335  := 'reff + r_Pt_300K+r_Rh_300K-reff'
+     deltar =  0.00107335  := 'r_Pt_300K+r_Rh_300K-reff'
+     sigma2 =  0.00651752  := 'ss_Pt_300K+ss_Rh_300K'
+
+ = Path 'psqdgt7gxs' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Pd/feff0001.dat, from feff run 'PtL3-Pd'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9523,  1.9523  2
+     reff   =  2.76100000
+     degen  =  1.00000000
+     n*s02  =  1.50421737  := 'amp_Pt*n_PtPd/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.73402613  := 'reff + r_Pt_300K+r_Pd_300K-reff'
+     deltar = -0.02697387  := 'r_Pt_300K+r_Pd_300K-reff'
+     sigma2 =  0.00491096  := 'ss_Pt_300K+ss_Pd_300K'
+
+ = Path 'p3pfqev33x' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Ir/feff0001.dat, from feff run 'PtL3-Ir'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       0.0000,  1.9403,  1.9403  2
+     reff   =  2.74400000
+     degen  =  1.00000000
+     n*s02  =  2.0461e-05  := 'amp_Pt*n_PtIr/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.71551331  := 'reff + r_Pt_300K+r_Ir_300K-reff'
+     deltar = -0.02848669  := 'r_Pt_300K+r_Ir_300K-reff'
+     sigma2 =  0.00614797  := 'ss_Pt_300K+ss_Ir_300K'
+
+ = Path 'p2emrxnnct' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Pt/feff0001.dat, from feff run 'PtL3-Pt'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9601,  1.9601  2
+     reff   =  2.77200000
+     degen  =  1.00000000
+     n*s02  =  2.06617661  := 'amp_Pt*n_PtPt/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.73712789  := 'reff + r_Pt_300K+r_Pt_300K-reff'
+     deltar = -0.03487211  := 'r_Pt_300K+r_Pt_300K-reff'
+     sigma2 =  0.00410773  := 'ss_Pt_300K+ss_Pt_300K'
+
+ dataset 35:
+ = Path 'pfzylcertf' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Ru/feff0001.dat, from feff run 'PtL3-Ru'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ru       0.0000,  1.9269,  1.9269  2
+     reff   =  2.72500000
+     degen  =  1.00000000
+     n*s02  =  0.30927413  := 'amp_Pt*n_PtRu/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.68337171  := 'reff + r_Pt_100C+r_Ru_100C-reff'
+     deltar = -0.04162829  := 'r_Pt_100C+r_Ru_100C-reff'
+     sigma2 =  0.00427233  := 'ss_Pt_100C+ss_Ru_100C'
+
+ = Path 'pamnjuqss6' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Rh/feff0001.dat, from feff run 'PtL3-Rh'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Rh       0.0000,  1.9311,  1.9311  2
+     reff   =  2.73100000
+     degen  =  1.00000000
+     n*s02  =  2.32462344  := 'amp_Pt*n_PtRh/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.72767394  := 'reff + r_Pt_100C+r_Rh_100C-reff'
+     deltar = -0.00332606  := 'r_Pt_100C+r_Rh_100C-reff'
+     sigma2 =  0.00752035  := 'ss_Pt_100C+ss_Rh_100C'
+
+ = Path 'psqdgt7gxs' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Pd/feff0001.dat, from feff run 'PtL3-Pd'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pd       0.0000,  1.9523,  1.9523  2
+     reff   =  2.76100000
+     degen  =  1.00000000
+     n*s02  =  1.50421737  := 'amp_Pt*n_PtPd/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.72756524  := 'reff + r_Pt_100C+r_Pd_100C-reff'
+     deltar = -0.03343476  := 'r_Pt_100C+r_Pd_100C-reff'
+     sigma2 =  0.00661931  := 'ss_Pt_100C+ss_Pd_100C'
+
+ = Path 'p3pfqev33x' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Ir/feff0001.dat, from feff run 'PtL3-Ir'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Ir       0.0000,  1.9403,  1.9403  2
+     reff   =  2.74400000
+     degen  =  1.00000000
+     n*s02  =  2.0461e-05  := 'amp_Pt*n_PtIr/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.70999096  := 'reff + r_Pt_100C+r_Ir_100C-reff'
+     deltar = -0.03400904  := 'r_Pt_100C+r_Ir_100C-reff'
+     sigma2 =  0.00674539  := 'ss_Pt_100C+ss_Ir_100C'
+
+ = Path 'p2emrxnnct' = Pt LIII Edge
+    feffdat file = ./feffinp/PtL3-Pt/feff0001.dat, from feff run 'PtL3-Pt'
+    geometry  atom      x        y        z      ipot
+              Pt       0.0000,  0.0000,  0.0000  0 (absorber)
+              Pt       0.0000,  1.9601,  1.9601  2
+     reff   =  2.77200000
+     degen  =  1.00000000
+     n*s02  =  2.06617661  := 'amp_Pt*n_PtPt/x_Pt'
+     e0     =  9.08065713  := 'enot_Pt'
+     r      =  2.72872146  := 'reff + r_Pt_100C+r_Pt_100C-reff'
+     deltar = -0.04327854  := 'r_Pt_100C+r_Pt_100C-reff'
+     sigma2 =  0.00486370  := 'ss_Pt_100C+ss_Pt_100C'
+
+=======================================================

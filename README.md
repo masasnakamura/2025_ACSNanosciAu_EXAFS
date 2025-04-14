@@ -31,7 +31,7 @@ The details of the procedure is discussed in the article above. The code require
   - input_pars_{samplename}.csv : Input files to specify the EXAFS analyses conditions
   - prep_feff.py : A script to perform FEFF calculation before fitting
   - {tools,run_fit}.py : The python scripts
-  - seq.ps1 : A script to run a series of fitting
+  - seq.ps1 : A script to run a series of fittings
 
 ## Usage
 Please cite the article above when you publish results using this code.

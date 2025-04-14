@@ -5,10 +5,9 @@
 - Title : Unravelling Element-Selective Local Structures in Multi-Element Alloy Nanoparticles with EXAFS
 
 ## Overview
-This repository contains python scripts developed for EXAFS curve fitting analysis of multi-element alloy (high-entropy alloy / compositionally complex alloy) nanoparticles and their application to foour samples.
+This repository contains python scripts developed for EXAFS curve fitting analysis of multi-element alloy (high-entropy alloy / compositionally complex alloy) nanoparticles and their application to four samples.
 Simultaneous fitting of multiple data at different absorption edges and temperatures is performed while imposing constraints based on physically reasonable and interpretable assumptions.
-The details of the procedure is discussed in the article above.
-The code requires xraylarch version 0.9.65.
+The details of the procedure is discussed in the article above. The code requires xraylarch version 0.9.65.
 
 ## Contents
 - scripts : Python scripts developed for the EXAFS analyses
@@ -17,11 +16,11 @@ The code requires xraylarch version 0.9.65.
 <br>
 
 - examples : The examples of the structural analyses, The results shown in the above mentioned paper
-  - feffinp : The FEFF calculation results
+  - feffinp : The FEFF calculation results (Outputs were not uploaded to reduce contents)
   - in : The experimental data (Athena project files)
   - out : The EXAFS analyses results
     - {samplename}
-      - dat : The EXAFS spectra extracted after background subtraction and Fourier transforms
+      - dat : The EXAFS spectra extracted after background subtraction and Fourier transforms (Outputs were not uploaded to reduce contents except for sample "PGM")
       - fit : The EXAFS fitting result of the last cycle of the fitting
       - trial{n} : The results of the {n}th cycle of the fitting
       - samplename_fit.txt : Summary of the fitting result
@@ -35,7 +34,7 @@ The code requires xraylarch version 0.9.65.
   - seq.ps1 : A script to run a series of fitting
 
 ## Usage
-Cite the article above 
+Please cite the article above when you publish results using this code.
 
 1. Preparation of input folders/files
   - ./in/{samplename}.prj
@@ -87,9 +86,3 @@ Cite the article above
 
 ## Contact
 If you have any question on the scripts, please feel free to contact the authors.
-
-## References
-1. larch
-2. larch
-3. feff
-4. autobk

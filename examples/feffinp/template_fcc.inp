@@ -1,0 +1,74 @@
+ HOLE      hnum   1.0   
+ *         mphase,mpath,mfeff,mchi
+ CONTROL   1      1     1     1
+ PRINT     1      0     0     0
+
+ RMAX      6.0
+  * POLARIZATION  0.0   0.0   0.0
+
+ POTENTIALS
+  * ipot   Z      tag
+     0     Zabs     Elabs       
+     1     Zabs     Elabs
+     2     Zsct     Elsct        
+
+
+ ATOMS
+ *   x          y          z     ipot tag           distance
+    0.00000    0.00000    0.00000  0  Elabs            0.00000
+    R100    R100    0.00000  2  Elsct.1          R110
+   -R100    R100    0.00000  2  Elsct.1          R110
+    R100   -R100    0.00000  2  Elsct.1          R110
+   -R100   -R100    0.00000  2  Elsct.1          R110
+    R100    0.00000    R100  2  Elsct.1          R110
+   -R100    0.00000    R100  2  Elsct.1          R110
+    0.00000    R100    R100  2  Elsct.1          R110
+    0.00000   -R100    R100  2  Elsct.1          R110
+    R100    0.00000   -R100  2  Elsct.1          R110
+   -R100    0.00000   -R100  2  Elsct.1          R110
+    0.00000    R100   -R100  2  Elsct.1          R110
+    0.00000   -R100   -R100  2  Elsct.1          R110
+    R200    0.00000    0.00000  1  Elabs.1          R200
+   -R200    0.00000    0.00000  1  Elabs.1          R200
+    0.00000    R200    0.00000  1  Elabs.1          R200
+    0.00000   -R200    0.00000  1  Elabs.1          R200
+    0.00000    0.00000    R200  1  Elabs.1          R200
+    0.00000    0.00000   -R200  1  Elabs.1          R200
+    R200    R100    R100  2  Elsct.2          R211
+   -R200    R100    R100  2  Elsct.2          R211
+    R100    R200    R100  2  Elsct.2          R211
+   -R100    R200    R100  2  Elsct.2          R211
+    R200   -R100    R100  2  Elsct.2          R211
+   -R200   -R100    R100  2  Elsct.2          R211
+    R100   -R200    R100  2  Elsct.2          R211
+   -R100   -R200    R100  2  Elsct.2          R211
+    R100    R100    R200  2  Elsct.2          R211
+   -R100    R100    R200  2  Elsct.2          R211
+    R100   -R100    R200  2  Elsct.2          R211
+   -R100   -R100    R200  2  Elsct.2          R211
+    R200    R100   -R100  2  Elsct.2          R211
+   -R200    R100   -R100  2  Elsct.2          R211
+    R100    R200   -R100  2  Elsct.2          R211
+   -R100    R200   -R100  2  Elsct.2          R211
+    R200   -R100   -R100  2  Elsct.2          R211
+   -R200   -R100   -R100  2  Elsct.2          R211
+    R100   -R200   -R100  2  Elsct.2          R211
+   -R100   -R200   -R100  2  Elsct.2          R211
+    R100    R100   -R200  2  Elsct.2          R211
+   -R100    R100   -R200  2  Elsct.2          R211
+    R100   -R100   -R200  2  Elsct.2          R211
+   -R100   -R100   -R200  2  Elsct.2          R211
+    R200    R200    0.00000  1  Elabs.2          R220
+   -R200    R200    0.00000  1  Elabs.2          R220
+    R200   -R200    0.00000  1  Elabs.2          R220
+   -R200   -R200    0.00000  1  Elabs.2          R220
+    R200    0.00000    R200  1  Elabs.2          R220
+   -R200    0.00000    R200  1  Elabs.2          R220
+    0.00000    R200    R200  1  Elabs.2          R220
+    0.00000   -R200    R200  1  Elabs.2          R220
+    R200    0.00000   -R200  1  Elabs.2          R220
+   -R200    0.00000   -R200  1  Elabs.2          R220
+    0.00000    R200   -R200  1  Elabs.2          R220
+    0.00000   -R200   -R200  1  Elabs.2          R220
+
+ END

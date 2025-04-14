@@ -1,0 +1,108 @@
+### Ru ###
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 16
+    # data points      = 7
+    # variables        = 2
+    chi-square         = 0.70288443
+    reduced chi-square = 0.14057689
+    Akaike info crit   = -12.0893106
+    Bayesian info crit = -12.1974903
+[[Variables]]
+    thetae:   244.048281 +/- 24.7480818 (10.14%) (init = 200)
+    ss_stat:  7.9176e-04 +/- 2.7214e-04 (34.37%) (init = 0)
+    m:        101.07 (fixed)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(thetae, ss_stat) = 0.845
+
+
+### Rh ###
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 13
+    # data points      = 7
+    # variables        = 2
+    chi-square         = 0.59436759
+    reduced chi-square = 0.11887352
+    Akaike info crit   = -13.2631723
+    Bayesian info crit = -13.3713520
+[[Variables]]
+    thetae:   221.749188 +/- 14.7988138 (6.67%) (init = 200)
+    ss_stat:  7.0027e-04 +/- 2.1910e-04 (31.29%) (init = 0)
+    m:        102.906 (fixed)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(thetae, ss_stat) = 0.834
+
+
+### Pd ###
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 13
+    # data points      = 7
+    # variables        = 2
+    chi-square         = 4.32229752
+    reduced chi-square = 0.86445950
+    Akaike info crit   = 0.62513862
+    Bayesian info crit = 0.51695892
+[[Variables]]
+    thetae:   213.381015 +/- 7.43718659 (3.49%) (init = 200)
+    ss_stat:  6.3400e-04 +/- 1.2698e-04 (20.03%) (init = 0)
+    m:        106.42 (fixed)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(thetae, ss_stat) = 0.836
+
+
+### Ir ###
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 13
+    # data points      = 7
+    # variables        = 2
+    chi-square         = 1.18545280
+    reduced chi-square = 0.23709056
+    Akaike info crit   = -8.43049737
+    Bayesian info crit = -8.53867707
+[[Variables]]
+    thetae:   230.127745 +/- 31.8087001 (13.82%) (init = 200)
+    ss_stat:  0.00323482 +/- 2.4553e-04 (7.59%) (init = 0)
+    m:        192.217 (fixed)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(thetae, ss_stat) = 0.838
+
+
+### Pt ###
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 10
+    # data points      = 7
+    # variables        = 2
+    chi-square         = 0.58137135
+    reduced chi-square = 0.11627427
+    Akaike info crit   = -13.4179301
+    Bayesian info crit = -13.5261098
+[[Variables]]
+    thetae:   198.535487 +/- 16.8578704 (8.49%) (init = 200)
+    ss_stat:  6.4290e-04 +/- 1.8636e-04 (28.99%) (init = 0)
+    m:        195.084 (fixed)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(thetae, ss_stat) = 0.825
+
+
+### Sn ###
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 16
+    # data points      = 7
+    # variables        = 2
+    chi-square         = 1.31008250
+    reduced chi-square = 0.26201650
+    Akaike info crit   = -7.73074027
+    Bayesian info crit = -7.83891997
+[[Variables]]
+    thetae:   172.199620 +/- 17.9890944 (10.45%) (init = 200)
+    ss_stat:  8.3906e-04 +/- 4.4904e-04 (53.52%) (init = 0)
+    m:        118.71 (fixed)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(thetae, ss_stat) = 0.822
+
+

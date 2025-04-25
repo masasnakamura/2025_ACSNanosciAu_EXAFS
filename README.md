@@ -33,6 +33,7 @@ The details of the procedure is discussed in the article above. The code require
   - {tools,run_fit}.py : The python scripts
   - seq.ps1 : A script to run a series of fittings
 
+<!--
 ## Usage
 Please cite the article above when you publish results using this code.
 
@@ -83,6 +84,8 @@ Please cite the article above when you publish results using this code.
 <br>
 
 3. Run run_fit.py
+-->
 
 ## Contact
+Please cite the article above when you publish results using this code. 
 If you have any question on the scripts, please feel free to contact the authors.
